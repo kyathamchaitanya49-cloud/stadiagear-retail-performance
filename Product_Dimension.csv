@@ -1,0 +1,5001 @@
+ProductID,Category,UnitPrice
+P00001,Fan Merchandise,81.66
+P00002,Training Gear,158.64
+P00003,Footwear,189.97
+P00004,Jerseys,119.36
+P00005,Accessories,64.74
+P00006,Jerseys,127.98
+P00007,Accessories,25.57
+P00008,Accessories,95.44
+P00009,Fan Merchandise,61.33
+P00010,Footwear,154.83
+P00011,Accessories,32.03
+P00012,Training Gear,39.75
+P00013,Jerseys,181.59
+P00014,Accessories,27.94
+P00015,Footwear,53.27
+P00016,Jerseys,145.71
+P00017,Accessories,80.43
+P00018,Jerseys,72.35
+P00019,Fan Merchandise,27.1
+P00020,Accessories,88.88
+P00021,Training Gear,150.0
+P00022,Training Gear,85.66
+P00023,Jerseys,169.84
+P00024,Footwear,97.49
+P00025,Training Gear,117.86
+P00026,Jerseys,135.8
+P00027,Jerseys,177.27
+P00028,Footwear,179.66
+P00029,Fan Merchandise,32.74
+P00030,Jerseys,76.67
+P00031,Footwear,185.38
+P00032,Accessories,13.28
+P00033,Fan Merchandise,61.57
+P00034,Jerseys,124.01
+P00035,Fan Merchandise,17.5
+P00036,Accessories,78.86
+P00037,Jerseys,125.02
+P00038,Jerseys,179.71
+P00039,Footwear,77.55
+P00040,Jerseys,55.33
+P00041,Training Gear,36.53
+P00042,Footwear,88.53
+P00043,Training Gear,110.62
+P00044,Footwear,105.28
+P00045,Jerseys,72.15
+P00046,Accessories,108.16
+P00047,Training Gear,33.37
+P00048,Footwear,103.92
+P00049,Footwear,197.79
+P00050,Accessories,75.26
+P00051,Jerseys,101.37
+P00052,Fan Merchandise,82.84
+P00053,Training Gear,89.16
+P00054,Footwear,41.46
+P00055,Training Gear,18.88
+P00056,Footwear,209.38
+P00057,Training Gear,57.93
+P00058,Training Gear,133.31
+P00059,Fan Merchandise,15.18
+P00060,Training Gear,38.86
+P00061,Training Gear,139.66
+P00062,Footwear,218.94
+P00063,Footwear,49.35
+P00064,Footwear,70.17
+P00065,Accessories,82.29
+P00066,Accessories,62.95
+P00067,Accessories,50.6
+P00068,Fan Merchandise,26.2
+P00069,Accessories,104.54
+P00070,Footwear,71.01
+P00071,Jerseys,93.46
+P00072,Training Gear,64.05
+P00073,Jerseys,75.09
+P00074,Jerseys,132.75
+P00075,Footwear,101.44
+P00076,Training Gear,104.31
+P00077,Jerseys,108.34
+P00078,Fan Merchandise,20.5
+P00079,Footwear,197.07
+P00080,Footwear,131.74
+P00081,Fan Merchandise,35.5
+P00082,Accessories,11.64
+P00083,Fan Merchandise,55.64
+P00084,Jerseys,168.46
+P00085,Training Gear,110.31
+P00086,Accessories,88.77
+P00087,Training Gear,40.01
+P00088,Footwear,214.91
+P00089,Jerseys,85.64
+P00090,Jerseys,93.68
+P00091,Fan Merchandise,49.4
+P00092,Fan Merchandise,12.38
+P00093,Accessories,54.24
+P00094,Footwear,75.23
+P00095,Footwear,174.82
+P00096,Footwear,176.4
+P00097,Training Gear,105.43
+P00098,Jerseys,116.14
+P00099,Footwear,95.84
+P00100,Jerseys,174.98
+P00101,Footwear,131.28
+P00102,Training Gear,88.5
+P00103,Jerseys,71.45
+P00104,Training Gear,49.01
+P00105,Fan Merchandise,38.32
+P00106,Accessories,79.89
+P00107,Accessories,94.53
+P00108,Fan Merchandise,84.48
+P00109,Fan Merchandise,43.2
+P00110,Footwear,121.58
+P00111,Training Gear,126.78
+P00112,Jerseys,101.58
+P00113,Jerseys,133.38
+P00114,Jerseys,153.17
+P00115,Fan Merchandise,29.25
+P00116,Jerseys,95.54
+P00117,Jerseys,106.65
+P00118,Footwear,143.98
+P00119,Jerseys,94.21
+P00120,Footwear,77.47
+P00121,Training Gear,39.23
+P00122,Jerseys,172.35
+P00123,Training Gear,143.81
+P00124,Fan Merchandise,78.04
+P00125,Fan Merchandise,71.98
+P00126,Training Gear,37.5
+P00127,Jerseys,69.17
+P00128,Accessories,59.92
+P00129,Footwear,133.86
+P00130,Footwear,171.91
+P00131,Jerseys,87.32
+P00132,Fan Merchandise,79.96
+P00133,Training Gear,62.01
+P00134,Jerseys,138.78
+P00135,Fan Merchandise,75.09
+P00136,Jerseys,130.9
+P00137,Footwear,175.64
+P00138,Footwear,174.82
+P00139,Accessories,89.0
+P00140,Accessories,91.1
+P00141,Jerseys,111.91
+P00142,Footwear,105.44
+P00143,Accessories,90.35
+P00144,Fan Merchandise,54.32
+P00145,Footwear,149.39
+P00146,Fan Merchandise,42.07
+P00147,Accessories,30.16
+P00148,Accessories,55.69
+P00149,Footwear,214.54
+P00150,Training Gear,59.3
+P00151,Accessories,37.2
+P00152,Jerseys,73.96
+P00153,Training Gear,86.33
+P00154,Training Gear,58.97
+P00155,Fan Merchandise,62.16
+P00156,Training Gear,37.19
+P00157,Footwear,84.52
+P00158,Fan Merchandise,16.52
+P00159,Jerseys,61.01
+P00160,Training Gear,133.61
+P00161,Jerseys,186.35
+P00162,Footwear,177.5
+P00163,Jerseys,180.45
+P00164,Fan Merchandise,18.32
+P00165,Accessories,99.81
+P00166,Fan Merchandise,46.02
+P00167,Footwear,178.36
+P00168,Footwear,150.84
+P00169,Accessories,44.99
+P00170,Jerseys,93.4
+P00171,Fan Merchandise,20.62
+P00172,Training Gear,76.6
+P00173,Fan Merchandise,48.07
+P00174,Jerseys,197.55
+P00175,Accessories,13.73
+P00176,Training Gear,101.8
+P00177,Fan Merchandise,50.32
+P00178,Fan Merchandise,13.67
+P00179,Jerseys,102.81
+P00180,Fan Merchandise,42.87
+P00181,Footwear,128.97
+P00182,Fan Merchandise,29.04
+P00183,Training Gear,22.84
+P00184,Training Gear,59.73
+P00185,Footwear,190.55
+P00186,Training Gear,132.72
+P00187,Footwear,72.54
+P00188,Accessories,74.63
+P00189,Fan Merchandise,79.43
+P00190,Accessories,27.21
+P00191,Jerseys,73.66
+P00192,Fan Merchandise,13.62
+P00193,Fan Merchandise,24.59
+P00194,Accessories,91.4
+P00195,Accessories,91.4
+P00196,Fan Merchandise,51.45
+P00197,Jerseys,103.37
+P00198,Footwear,185.22
+P00199,Accessories,29.5
+P00200,Fan Merchandise,22.21
+P00201,Jerseys,67.94
+P00202,Footwear,193.24
+P00203,Training Gear,119.51
+P00204,Training Gear,106.69
+P00205,Accessories,82.75
+P00206,Fan Merchandise,22.47
+P00207,Training Gear,72.64
+P00208,Accessories,91.41
+P00209,Jerseys,187.93
+P00210,Accessories,61.31
+P00211,Training Gear,35.33
+P00212,Fan Merchandise,83.43
+P00213,Footwear,111.11
+P00214,Training Gear,63.3
+P00215,Fan Merchandise,20.76
+P00216,Jerseys,56.83
+P00217,Training Gear,103.72
+P00218,Fan Merchandise,56.71
+P00219,Training Gear,51.26
+P00220,Training Gear,41.0
+P00221,Footwear,135.04
+P00222,Fan Merchandise,43.78
+P00223,Jerseys,99.03
+P00224,Training Gear,48.99
+P00225,Training Gear,140.02
+P00226,Training Gear,157.7
+P00227,Fan Merchandise,37.96
+P00228,Fan Merchandise,62.96
+P00229,Jerseys,180.5
+P00230,Jerseys,58.91
+P00231,Footwear,203.45
+P00232,Training Gear,88.88
+P00233,Fan Merchandise,52.64
+P00234,Accessories,63.99
+P00235,Jerseys,90.22
+P00236,Accessories,88.22
+P00237,Accessories,83.23
+P00238,Training Gear,31.6
+P00239,Training Gear,97.92
+P00240,Accessories,105.7
+P00241,Fan Merchandise,75.59
+P00242,Footwear,152.66
+P00243,Footwear,75.76
+P00244,Accessories,44.72
+P00245,Fan Merchandise,22.98
+P00246,Footwear,187.95
+P00247,Footwear,180.16
+P00248,Accessories,101.04
+P00249,Footwear,51.41
+P00250,Jerseys,194.88
+P00251,Accessories,106.64
+P00252,Training Gear,113.77
+P00253,Jerseys,182.85
+P00254,Footwear,118.92
+P00255,Footwear,96.41
+P00256,Footwear,67.79
+P00257,Fan Merchandise,14.31
+P00258,Accessories,14.2
+P00259,Footwear,164.48
+P00260,Training Gear,65.79
+P00261,Fan Merchandise,15.95
+P00262,Footwear,60.2
+P00263,Jerseys,151.47
+P00264,Training Gear,151.29
+P00265,Fan Merchandise,41.78
+P00266,Training Gear,128.43
+P00267,Footwear,215.24
+P00268,Fan Merchandise,63.71
+P00269,Footwear,170.14
+P00270,Jerseys,144.31
+P00271,Fan Merchandise,83.37
+P00272,Fan Merchandise,33.89
+P00273,Footwear,180.94
+P00274,Footwear,114.71
+P00275,Fan Merchandise,23.35
+P00276,Footwear,173.09
+P00277,Jerseys,175.26
+P00278,Footwear,195.45
+P00279,Footwear,205.94
+P00280,Training Gear,123.78
+P00281,Footwear,134.97
+P00282,Accessories,103.87
+P00283,Fan Merchandise,27.3
+P00284,Footwear,53.92
+P00285,Accessories,53.16
+P00286,Jerseys,139.42
+P00287,Training Gear,114.56
+P00288,Fan Merchandise,71.53
+P00289,Fan Merchandise,13.95
+P00290,Jerseys,171.3
+P00291,Training Gear,103.22
+P00292,Accessories,105.29
+P00293,Jerseys,105.45
+P00294,Footwear,151.06
+P00295,Footwear,177.98
+P00296,Jerseys,129.88
+P00297,Jerseys,77.61
+P00298,Training Gear,25.07
+P00299,Training Gear,33.82
+P00300,Footwear,129.08
+P00301,Training Gear,108.82
+P00302,Fan Merchandise,53.65
+P00303,Accessories,81.29
+P00304,Training Gear,23.54
+P00305,Fan Merchandise,21.95
+P00306,Accessories,86.11
+P00307,Footwear,180.61
+P00308,Jerseys,156.83
+P00309,Training Gear,123.85
+P00310,Footwear,213.42
+P00311,Footwear,209.96
+P00312,Jerseys,148.45
+P00313,Accessories,41.93
+P00314,Jerseys,57.05
+P00315,Training Gear,107.69
+P00316,Jerseys,117.54
+P00317,Training Gear,38.88
+P00318,Accessories,31.53
+P00319,Accessories,103.65
+P00320,Footwear,51.92
+P00321,Jerseys,169.18
+P00322,Training Gear,146.09
+P00323,Fan Merchandise,62.25
+P00324,Accessories,16.13
+P00325,Training Gear,138.11
+P00326,Fan Merchandise,59.69
+P00327,Footwear,89.87
+P00328,Accessories,72.97
+P00329,Fan Merchandise,21.97
+P00330,Fan Merchandise,63.66
+P00331,Footwear,202.54
+P00332,Jerseys,130.64
+P00333,Jerseys,193.06
+P00334,Jerseys,118.52
+P00335,Footwear,194.36
+P00336,Accessories,87.36
+P00337,Accessories,18.84
+P00338,Footwear,204.28
+P00339,Accessories,101.04
+P00340,Footwear,103.25
+P00341,Jerseys,170.05
+P00342,Fan Merchandise,28.4
+P00343,Training Gear,22.32
+P00344,Jerseys,85.15
+P00345,Training Gear,86.73
+P00346,Training Gear,26.2
+P00347,Accessories,26.0
+P00348,Training Gear,152.96
+P00349,Jerseys,126.61
+P00350,Footwear,188.16
+P00351,Training Gear,47.34
+P00352,Accessories,18.85
+P00353,Jerseys,168.18
+P00354,Footwear,102.79
+P00355,Footwear,122.76
+P00356,Footwear,218.58
+P00357,Footwear,96.98
+P00358,Training Gear,85.19
+P00359,Jerseys,147.05
+P00360,Fan Merchandise,18.5
+P00361,Footwear,168.96
+P00362,Jerseys,120.5
+P00363,Training Gear,42.85
+P00364,Footwear,117.5
+P00365,Jerseys,121.8
+P00366,Training Gear,108.98
+P00367,Footwear,208.68
+P00368,Footwear,177.71
+P00369,Training Gear,72.31
+P00370,Jerseys,195.6
+P00371,Fan Merchandise,69.73
+P00372,Footwear,45.03
+P00373,Jerseys,71.91
+P00374,Accessories,31.8
+P00375,Fan Merchandise,18.1
+P00376,Jerseys,125.39
+P00377,Training Gear,66.38
+P00378,Fan Merchandise,83.02
+P00379,Accessories,57.27
+P00380,Accessories,31.22
+P00381,Accessories,107.07
+P00382,Fan Merchandise,49.51
+P00383,Footwear,53.15
+P00384,Training Gear,29.48
+P00385,Accessories,77.53
+P00386,Training Gear,88.26
+P00387,Training Gear,106.64
+P00388,Footwear,192.94
+P00389,Jerseys,153.8
+P00390,Accessories,96.18
+P00391,Accessories,84.27
+P00392,Training Gear,113.76
+P00393,Footwear,64.25
+P00394,Accessories,58.28
+P00395,Training Gear,79.5
+P00396,Training Gear,94.78
+P00397,Footwear,110.41
+P00398,Training Gear,106.1
+P00399,Footwear,110.64
+P00400,Accessories,65.76
+P00401,Jerseys,112.26
+P00402,Accessories,100.18
+P00403,Footwear,107.21
+P00404,Jerseys,160.99
+P00405,Jerseys,143.99
+P00406,Training Gear,72.74
+P00407,Accessories,90.76
+P00408,Fan Merchandise,79.71
+P00409,Fan Merchandise,67.52
+P00410,Jerseys,192.55
+P00411,Footwear,118.54
+P00412,Footwear,204.47
+P00413,Accessories,97.62
+P00414,Training Gear,126.26
+P00415,Jerseys,176.1
+P00416,Fan Merchandise,65.3
+P00417,Training Gear,90.75
+P00418,Training Gear,96.44
+P00419,Jerseys,115.56
+P00420,Training Gear,112.33
+P00421,Accessories,42.48
+P00422,Accessories,83.97
+P00423,Fan Merchandise,48.87
+P00424,Jerseys,106.21
+P00425,Fan Merchandise,22.75
+P00426,Fan Merchandise,30.65
+P00427,Fan Merchandise,58.73
+P00428,Training Gear,70.52
+P00429,Accessories,13.32
+P00430,Footwear,99.35
+P00431,Jerseys,108.12
+P00432,Training Gear,51.27
+P00433,Accessories,38.63
+P00434,Training Gear,118.1
+P00435,Jerseys,163.21
+P00436,Accessories,105.89
+P00437,Training Gear,34.77
+P00438,Fan Merchandise,34.76
+P00439,Jerseys,66.17
+P00440,Footwear,150.39
+P00441,Training Gear,20.33
+P00442,Fan Merchandise,26.99
+P00443,Accessories,68.7
+P00444,Accessories,45.87
+P00445,Footwear,137.99
+P00446,Jerseys,147.83
+P00447,Footwear,191.01
+P00448,Footwear,110.72
+P00449,Training Gear,57.6
+P00450,Jerseys,133.13
+P00451,Fan Merchandise,17.09
+P00452,Accessories,14.19
+P00453,Footwear,121.4
+P00454,Jerseys,86.62
+P00455,Footwear,41.3
+P00456,Fan Merchandise,61.59
+P00457,Training Gear,133.89
+P00458,Fan Merchandise,22.8
+P00459,Fan Merchandise,53.16
+P00460,Training Gear,157.73
+P00461,Fan Merchandise,31.62
+P00462,Accessories,83.08
+P00463,Fan Merchandise,23.83
+P00464,Jerseys,190.15
+P00465,Footwear,40.08
+P00466,Fan Merchandise,33.52
+P00467,Fan Merchandise,83.28
+P00468,Jerseys,152.25
+P00469,Training Gear,48.08
+P00470,Footwear,182.45
+P00471,Fan Merchandise,77.56
+P00472,Training Gear,87.19
+P00473,Jerseys,77.62
+P00474,Training Gear,54.72
+P00475,Training Gear,151.92
+P00476,Fan Merchandise,23.76
+P00477,Training Gear,62.29
+P00478,Fan Merchandise,22.62
+P00479,Accessories,20.56
+P00480,Fan Merchandise,50.11
+P00481,Jerseys,112.52
+P00482,Jerseys,61.69
+P00483,Footwear,66.14
+P00484,Jerseys,60.46
+P00485,Fan Merchandise,13.8
+P00486,Training Gear,43.34
+P00487,Training Gear,123.6
+P00488,Footwear,42.66
+P00489,Accessories,40.45
+P00490,Accessories,66.48
+P00491,Footwear,173.87
+P00492,Accessories,77.79
+P00493,Jerseys,198.32
+P00494,Training Gear,57.14
+P00495,Jerseys,55.02
+P00496,Training Gear,23.43
+P00497,Training Gear,31.85
+P00498,Fan Merchandise,83.19
+P00499,Footwear,142.61
+P00500,Jerseys,170.91
+P00501,Training Gear,157.88
+P00502,Footwear,191.97
+P00503,Footwear,113.37
+P00504,Training Gear,142.38
+P00505,Fan Merchandise,43.66
+P00506,Fan Merchandise,20.32
+P00507,Footwear,138.66
+P00508,Accessories,101.57
+P00509,Training Gear,129.4
+P00510,Jerseys,113.28
+P00511,Footwear,193.88
+P00512,Footwear,123.55
+P00513,Accessories,78.46
+P00514,Jerseys,103.3
+P00515,Training Gear,45.65
+P00516,Jerseys,100.45
+P00517,Footwear,197.53
+P00518,Training Gear,158.55
+P00519,Training Gear,55.48
+P00520,Fan Merchandise,24.07
+P00521,Training Gear,28.09
+P00522,Footwear,175.69
+P00523,Accessories,62.8
+P00524,Footwear,140.1
+P00525,Accessories,14.52
+P00526,Fan Merchandise,17.92
+P00527,Training Gear,147.88
+P00528,Footwear,143.81
+P00529,Jerseys,86.78
+P00530,Training Gear,47.46
+P00531,Accessories,34.09
+P00532,Jerseys,64.24
+P00533,Jerseys,62.22
+P00534,Jerseys,159.4
+P00535,Accessories,36.38
+P00536,Accessories,48.45
+P00537,Accessories,63.74
+P00538,Accessories,42.01
+P00539,Accessories,57.88
+P00540,Footwear,195.7
+P00541,Footwear,83.94
+P00542,Jerseys,169.73
+P00543,Training Gear,55.48
+P00544,Fan Merchandise,25.65
+P00545,Footwear,53.08
+P00546,Accessories,78.42
+P00547,Accessories,51.16
+P00548,Accessories,87.04
+P00549,Fan Merchandise,21.68
+P00550,Training Gear,103.68
+P00551,Footwear,42.34
+P00552,Accessories,33.38
+P00553,Accessories,70.96
+P00554,Accessories,15.6
+P00555,Footwear,107.9
+P00556,Accessories,66.17
+P00557,Footwear,170.97
+P00558,Fan Merchandise,63.51
+P00559,Fan Merchandise,22.82
+P00560,Jerseys,65.9
+P00561,Training Gear,71.44
+P00562,Training Gear,52.19
+P00563,Accessories,40.57
+P00564,Training Gear,66.63
+P00565,Training Gear,74.4
+P00566,Footwear,133.35
+P00567,Accessories,10.93
+P00568,Accessories,39.8
+P00569,Fan Merchandise,31.3
+P00570,Training Gear,51.54
+P00571,Accessories,88.86
+P00572,Footwear,85.23
+P00573,Accessories,25.1
+P00574,Fan Merchandise,74.18
+P00575,Jerseys,110.53
+P00576,Footwear,73.13
+P00577,Jerseys,163.93
+P00578,Fan Merchandise,59.97
+P00579,Footwear,210.15
+P00580,Jerseys,182.28
+P00581,Footwear,164.98
+P00582,Accessories,26.1
+P00583,Footwear,126.97
+P00584,Footwear,61.38
+P00585,Fan Merchandise,52.11
+P00586,Footwear,205.02
+P00587,Footwear,40.69
+P00588,Accessories,97.6
+P00589,Footwear,137.08
+P00590,Footwear,67.22
+P00591,Jerseys,179.1
+P00592,Jerseys,132.85
+P00593,Accessories,54.82
+P00594,Training Gear,88.96
+P00595,Jerseys,76.37
+P00596,Accessories,21.27
+P00597,Training Gear,111.94
+P00598,Accessories,98.04
+P00599,Fan Merchandise,62.7
+P00600,Accessories,94.08
+P00601,Accessories,94.48
+P00602,Training Gear,22.55
+P00603,Footwear,178.77
+P00604,Training Gear,127.64
+P00605,Accessories,45.0
+P00606,Accessories,50.98
+P00607,Accessories,84.55
+P00608,Jerseys,198.05
+P00609,Footwear,217.81
+P00610,Training Gear,85.29
+P00611,Accessories,88.96
+P00612,Training Gear,84.18
+P00613,Jerseys,180.56
+P00614,Jerseys,149.21
+P00615,Jerseys,190.81
+P00616,Jerseys,199.6
+P00617,Accessories,43.02
+P00618,Training Gear,157.06
+P00619,Training Gear,116.34
+P00620,Accessories,33.81
+P00621,Jerseys,55.45
+P00622,Accessories,78.38
+P00623,Accessories,32.24
+P00624,Fan Merchandise,28.89
+P00625,Accessories,65.22
+P00626,Footwear,45.57
+P00627,Footwear,114.95
+P00628,Training Gear,131.51
+P00629,Fan Merchandise,13.99
+P00630,Training Gear,106.6
+P00631,Jerseys,77.97
+P00632,Accessories,96.28
+P00633,Jerseys,111.65
+P00634,Training Gear,133.32
+P00635,Jerseys,159.95
+P00636,Fan Merchandise,76.08
+P00637,Footwear,133.03
+P00638,Footwear,127.5
+P00639,Footwear,46.74
+P00640,Accessories,63.38
+P00641,Training Gear,92.12
+P00642,Training Gear,104.11
+P00643,Accessories,23.1
+P00644,Accessories,64.0
+P00645,Fan Merchandise,45.14
+P00646,Footwear,147.28
+P00647,Fan Merchandise,60.22
+P00648,Fan Merchandise,38.38
+P00649,Accessories,60.41
+P00650,Footwear,111.12
+P00651,Footwear,177.79
+P00652,Jerseys,170.48
+P00653,Training Gear,59.6
+P00654,Accessories,35.95
+P00655,Accessories,77.83
+P00656,Accessories,87.4
+P00657,Fan Merchandise,12.79
+P00658,Jerseys,116.98
+P00659,Footwear,95.39
+P00660,Fan Merchandise,67.96
+P00661,Jerseys,75.81
+P00662,Jerseys,167.85
+P00663,Accessories,76.14
+P00664,Jerseys,177.22
+P00665,Training Gear,158.61
+P00666,Training Gear,85.67
+P00667,Training Gear,117.32
+P00668,Training Gear,118.81
+P00669,Jerseys,177.46
+P00670,Jerseys,130.13
+P00671,Fan Merchandise,19.86
+P00672,Footwear,216.29
+P00673,Training Gear,26.07
+P00674,Footwear,213.23
+P00675,Accessories,35.54
+P00676,Fan Merchandise,47.95
+P00677,Training Gear,152.99
+P00678,Fan Merchandise,61.4
+P00679,Accessories,68.56
+P00680,Jerseys,102.25
+P00681,Accessories,39.24
+P00682,Fan Merchandise,14.39
+P00683,Accessories,68.63
+P00684,Fan Merchandise,43.4
+P00685,Footwear,80.37
+P00686,Jerseys,110.71
+P00687,Training Gear,151.61
+P00688,Jerseys,178.02
+P00689,Accessories,53.04
+P00690,Accessories,108.0
+P00691,Training Gear,83.62
+P00692,Footwear,102.85
+P00693,Jerseys,111.25
+P00694,Training Gear,142.2
+P00695,Fan Merchandise,31.55
+P00696,Accessories,32.21
+P00697,Jerseys,194.28
+P00698,Jerseys,161.47
+P00699,Training Gear,126.46
+P00700,Fan Merchandise,66.04
+P00701,Training Gear,114.97
+P00702,Training Gear,30.96
+P00703,Accessories,85.37
+P00704,Accessories,34.89
+P00705,Fan Merchandise,21.67
+P00706,Training Gear,157.59
+P00707,Fan Merchandise,14.03
+P00708,Footwear,45.69
+P00709,Training Gear,62.01
+P00710,Fan Merchandise,73.63
+P00711,Training Gear,156.87
+P00712,Jerseys,72.19
+P00713,Accessories,49.54
+P00714,Fan Merchandise,65.6
+P00715,Fan Merchandise,59.12
+P00716,Footwear,82.01
+P00717,Jerseys,102.73
+P00718,Fan Merchandise,55.39
+P00719,Training Gear,23.03
+P00720,Footwear,176.48
+P00721,Jerseys,94.93
+P00722,Accessories,92.83
+P00723,Jerseys,154.13
+P00724,Footwear,156.17
+P00725,Accessories,86.74
+P00726,Fan Merchandise,17.48
+P00727,Jerseys,92.7
+P00728,Jerseys,130.65
+P00729,Training Gear,128.36
+P00730,Accessories,94.91
+P00731,Fan Merchandise,39.89
+P00732,Jerseys,170.08
+P00733,Training Gear,49.28
+P00734,Training Gear,29.71
+P00735,Jerseys,90.75
+P00736,Fan Merchandise,77.93
+P00737,Fan Merchandise,51.71
+P00738,Accessories,58.13
+P00739,Fan Merchandise,66.26
+P00740,Jerseys,56.46
+P00741,Accessories,21.83
+P00742,Training Gear,32.14
+P00743,Footwear,61.9
+P00744,Footwear,121.62
+P00745,Footwear,90.52
+P00746,Training Gear,129.57
+P00747,Footwear,191.03
+P00748,Footwear,206.49
+P00749,Fan Merchandise,26.31
+P00750,Fan Merchandise,48.71
+P00751,Accessories,14.87
+P00752,Training Gear,52.07
+P00753,Footwear,150.71
+P00754,Accessories,52.24
+P00755,Accessories,79.07
+P00756,Jerseys,176.69
+P00757,Training Gear,26.45
+P00758,Accessories,103.86
+P00759,Jerseys,61.15
+P00760,Footwear,216.7
+P00761,Footwear,154.77
+P00762,Training Gear,24.15
+P00763,Jerseys,112.08
+P00764,Training Gear,54.67
+P00765,Footwear,183.74
+P00766,Training Gear,50.01
+P00767,Training Gear,135.32
+P00768,Footwear,96.22
+P00769,Footwear,218.05
+P00770,Fan Merchandise,31.74
+P00771,Footwear,163.29
+P00772,Jerseys,171.03
+P00773,Fan Merchandise,27.8
+P00774,Training Gear,28.76
+P00775,Fan Merchandise,52.24
+P00776,Training Gear,114.15
+P00777,Accessories,91.73
+P00778,Fan Merchandise,31.91
+P00779,Jerseys,181.48
+P00780,Fan Merchandise,78.85
+P00781,Fan Merchandise,68.88
+P00782,Accessories,10.76
+P00783,Training Gear,30.38
+P00784,Accessories,109.77
+P00785,Accessories,83.39
+P00786,Accessories,72.68
+P00787,Jerseys,185.7
+P00788,Jerseys,60.75
+P00789,Training Gear,125.55
+P00790,Jerseys,149.93
+P00791,Fan Merchandise,73.92
+P00792,Accessories,87.79
+P00793,Training Gear,86.86
+P00794,Fan Merchandise,17.18
+P00795,Footwear,203.69
+P00796,Jerseys,165.71
+P00797,Fan Merchandise,38.02
+P00798,Footwear,217.11
+P00799,Accessories,41.11
+P00800,Jerseys,108.73
+P00801,Footwear,215.44
+P00802,Training Gear,112.87
+P00803,Training Gear,142.85
+P00804,Fan Merchandise,76.81
+P00805,Footwear,136.56
+P00806,Training Gear,55.91
+P00807,Accessories,94.74
+P00808,Training Gear,89.27
+P00809,Footwear,141.58
+P00810,Footwear,137.45
+P00811,Fan Merchandise,12.7
+P00812,Training Gear,24.51
+P00813,Footwear,150.95
+P00814,Jerseys,170.19
+P00815,Accessories,55.7
+P00816,Training Gear,45.04
+P00817,Fan Merchandise,41.68
+P00818,Training Gear,127.1
+P00819,Fan Merchandise,19.93
+P00820,Training Gear,97.55
+P00821,Accessories,80.22
+P00822,Footwear,114.85
+P00823,Fan Merchandise,55.89
+P00824,Accessories,98.35
+P00825,Accessories,31.28
+P00826,Jerseys,74.59
+P00827,Fan Merchandise,16.44
+P00828,Training Gear,121.12
+P00829,Jerseys,185.58
+P00830,Training Gear,116.04
+P00831,Jerseys,196.59
+P00832,Footwear,167.46
+P00833,Footwear,91.93
+P00834,Accessories,35.56
+P00835,Footwear,160.0
+P00836,Fan Merchandise,61.33
+P00837,Fan Merchandise,50.24
+P00838,Accessories,62.69
+P00839,Training Gear,77.16
+P00840,Training Gear,67.69
+P00841,Accessories,73.41
+P00842,Footwear,174.55
+P00843,Jerseys,172.94
+P00844,Fan Merchandise,34.47
+P00845,Jerseys,179.37
+P00846,Fan Merchandise,34.1
+P00847,Fan Merchandise,34.26
+P00848,Accessories,90.6
+P00849,Footwear,214.49
+P00850,Jerseys,190.17
+P00851,Jerseys,71.11
+P00852,Training Gear,58.96
+P00853,Fan Merchandise,67.47
+P00854,Fan Merchandise,70.86
+P00855,Fan Merchandise,48.81
+P00856,Accessories,11.61
+P00857,Footwear,130.33
+P00858,Footwear,45.61
+P00859,Footwear,90.65
+P00860,Footwear,158.23
+P00861,Jerseys,74.52
+P00862,Fan Merchandise,64.01
+P00863,Footwear,151.85
+P00864,Footwear,117.34
+P00865,Footwear,106.99
+P00866,Jerseys,187.63
+P00867,Footwear,139.57
+P00868,Footwear,200.0
+P00869,Jerseys,114.8
+P00870,Training Gear,102.44
+P00871,Jerseys,193.42
+P00872,Footwear,62.34
+P00873,Accessories,36.28
+P00874,Jerseys,187.92
+P00875,Accessories,52.2
+P00876,Jerseys,94.45
+P00877,Training Gear,159.62
+P00878,Training Gear,32.51
+P00879,Fan Merchandise,56.64
+P00880,Footwear,181.85
+P00881,Accessories,88.67
+P00882,Jerseys,119.07
+P00883,Fan Merchandise,15.21
+P00884,Footwear,191.38
+P00885,Fan Merchandise,70.6
+P00886,Jerseys,89.42
+P00887,Accessories,44.05
+P00888,Jerseys,129.33
+P00889,Jerseys,71.55
+P00890,Fan Merchandise,71.9
+P00891,Accessories,102.21
+P00892,Jerseys,99.69
+P00893,Footwear,206.33
+P00894,Training Gear,131.72
+P00895,Accessories,82.78
+P00896,Accessories,106.92
+P00897,Accessories,42.47
+P00898,Accessories,101.56
+P00899,Accessories,19.84
+P00900,Footwear,126.04
+P00901,Accessories,65.2
+P00902,Accessories,22.28
+P00903,Footwear,172.72
+P00904,Fan Merchandise,46.69
+P00905,Jerseys,121.05
+P00906,Footwear,144.66
+P00907,Fan Merchandise,21.83
+P00908,Training Gear,46.4
+P00909,Jerseys,81.2
+P00910,Fan Merchandise,81.49
+P00911,Footwear,179.17
+P00912,Fan Merchandise,50.63
+P00913,Accessories,75.95
+P00914,Fan Merchandise,59.45
+P00915,Jerseys,93.04
+P00916,Jerseys,67.56
+P00917,Training Gear,96.8
+P00918,Footwear,87.35
+P00919,Footwear,197.22
+P00920,Jerseys,89.23
+P00921,Accessories,67.29
+P00922,Footwear,115.62
+P00923,Accessories,84.29
+P00924,Jerseys,192.86
+P00925,Accessories,51.16
+P00926,Training Gear,24.3
+P00927,Accessories,76.14
+P00928,Accessories,22.92
+P00929,Accessories,20.45
+P00930,Footwear,159.08
+P00931,Fan Merchandise,19.51
+P00932,Training Gear,36.29
+P00933,Fan Merchandise,44.05
+P00934,Training Gear,82.23
+P00935,Accessories,101.37
+P00936,Fan Merchandise,32.16
+P00937,Footwear,112.17
+P00938,Training Gear,118.47
+P00939,Accessories,92.7
+P00940,Jerseys,105.62
+P00941,Fan Merchandise,58.07
+P00942,Accessories,72.42
+P00943,Training Gear,61.06
+P00944,Fan Merchandise,20.66
+P00945,Training Gear,114.92
+P00946,Accessories,36.81
+P00947,Accessories,41.83
+P00948,Fan Merchandise,53.78
+P00949,Footwear,68.95
+P00950,Footwear,83.47
+P00951,Training Gear,81.34
+P00952,Training Gear,142.74
+P00953,Training Gear,127.66
+P00954,Footwear,97.17
+P00955,Jerseys,98.8
+P00956,Training Gear,158.2
+P00957,Footwear,157.61
+P00958,Accessories,78.55
+P00959,Jerseys,62.99
+P00960,Training Gear,32.91
+P00961,Accessories,39.45
+P00962,Jerseys,177.09
+P00963,Accessories,101.07
+P00964,Footwear,74.39
+P00965,Fan Merchandise,64.14
+P00966,Accessories,97.41
+P00967,Accessories,97.89
+P00968,Jerseys,121.53
+P00969,Jerseys,92.52
+P00970,Footwear,212.13
+P00971,Training Gear,57.27
+P00972,Jerseys,91.64
+P00973,Accessories,30.57
+P00974,Jerseys,132.22
+P00975,Training Gear,33.22
+P00976,Fan Merchandise,53.66
+P00977,Footwear,209.86
+P00978,Accessories,60.5
+P00979,Accessories,106.53
+P00980,Fan Merchandise,78.12
+P00981,Training Gear,130.51
+P00982,Fan Merchandise,56.39
+P00983,Training Gear,143.06
+P00984,Accessories,65.5
+P00985,Jerseys,85.04
+P00986,Fan Merchandise,79.54
+P00987,Fan Merchandise,48.66
+P00988,Jerseys,186.62
+P00989,Accessories,49.31
+P00990,Footwear,100.43
+P00991,Footwear,177.88
+P00992,Training Gear,108.09
+P00993,Footwear,119.15
+P00994,Fan Merchandise,76.14
+P00995,Jerseys,129.9
+P00996,Fan Merchandise,12.93
+P00997,Training Gear,116.43
+P00998,Fan Merchandise,16.61
+P00999,Training Gear,86.32
+P01000,Jerseys,82.85
+P01001,Jerseys,90.09
+P01002,Fan Merchandise,83.53
+P01003,Fan Merchandise,20.28
+P01004,Fan Merchandise,67.31
+P01005,Fan Merchandise,58.53
+P01006,Jerseys,83.28
+P01007,Jerseys,190.62
+P01008,Training Gear,46.6
+P01009,Accessories,61.56
+P01010,Fan Merchandise,69.71
+P01011,Accessories,86.36
+P01012,Training Gear,63.4
+P01013,Training Gear,137.18
+P01014,Jerseys,194.5
+P01015,Training Gear,85.31
+P01016,Jerseys,149.59
+P01017,Accessories,46.45
+P01018,Training Gear,68.28
+P01019,Jerseys,123.11
+P01020,Jerseys,83.58
+P01021,Fan Merchandise,62.33
+P01022,Training Gear,41.51
+P01023,Footwear,40.93
+P01024,Fan Merchandise,44.08
+P01025,Accessories,17.64
+P01026,Jerseys,136.55
+P01027,Fan Merchandise,49.99
+P01028,Accessories,23.73
+P01029,Fan Merchandise,29.96
+P01030,Fan Merchandise,13.79
+P01031,Training Gear,102.34
+P01032,Fan Merchandise,33.38
+P01033,Footwear,168.34
+P01034,Fan Merchandise,57.98
+P01035,Fan Merchandise,39.27
+P01036,Footwear,43.91
+P01037,Accessories,42.02
+P01038,Fan Merchandise,35.72
+P01039,Footwear,99.89
+P01040,Jerseys,193.25
+P01041,Accessories,26.46
+P01042,Jerseys,94.16
+P01043,Training Gear,136.2
+P01044,Footwear,206.53
+P01045,Fan Merchandise,46.18
+P01046,Fan Merchandise,51.42
+P01047,Accessories,15.29
+P01048,Accessories,90.8
+P01049,Footwear,147.02
+P01050,Footwear,126.22
+P01051,Accessories,40.26
+P01052,Jerseys,119.35
+P01053,Fan Merchandise,65.68
+P01054,Accessories,18.08
+P01055,Footwear,131.23
+P01056,Jerseys,60.02
+P01057,Training Gear,127.66
+P01058,Jerseys,85.6
+P01059,Fan Merchandise,77.95
+P01060,Footwear,125.7
+P01061,Training Gear,82.93
+P01062,Accessories,46.04
+P01063,Accessories,61.64
+P01064,Accessories,43.8
+P01065,Jerseys,107.19
+P01066,Fan Merchandise,26.28
+P01067,Footwear,102.14
+P01068,Footwear,186.11
+P01069,Footwear,84.22
+P01070,Accessories,92.13
+P01071,Training Gear,140.31
+P01072,Footwear,159.94
+P01073,Training Gear,22.36
+P01074,Fan Merchandise,52.96
+P01075,Footwear,189.97
+P01076,Footwear,105.84
+P01077,Jerseys,96.01
+P01078,Footwear,97.85
+P01079,Fan Merchandise,42.88
+P01080,Accessories,17.02
+P01081,Jerseys,89.46
+P01082,Fan Merchandise,59.23
+P01083,Jerseys,123.51
+P01084,Training Gear,53.12
+P01085,Fan Merchandise,79.95
+P01086,Jerseys,97.85
+P01087,Accessories,22.93
+P01088,Jerseys,83.91
+P01089,Training Gear,60.12
+P01090,Jerseys,130.77
+P01091,Training Gear,27.42
+P01092,Training Gear,139.4
+P01093,Accessories,97.75
+P01094,Fan Merchandise,35.24
+P01095,Accessories,87.53
+P01096,Footwear,147.94
+P01097,Training Gear,138.05
+P01098,Accessories,37.7
+P01099,Training Gear,104.65
+P01100,Fan Merchandise,17.31
+P01101,Footwear,41.7
+P01102,Jerseys,181.83
+P01103,Footwear,93.02
+P01104,Footwear,120.17
+P01105,Fan Merchandise,28.92
+P01106,Footwear,197.83
+P01107,Training Gear,72.6
+P01108,Accessories,27.91
+P01109,Accessories,70.8
+P01110,Jerseys,84.79
+P01111,Footwear,86.92
+P01112,Accessories,77.28
+P01113,Jerseys,194.09
+P01114,Accessories,85.48
+P01115,Accessories,22.41
+P01116,Footwear,96.26
+P01117,Accessories,89.64
+P01118,Jerseys,94.9
+P01119,Jerseys,162.31
+P01120,Fan Merchandise,46.44
+P01121,Footwear,199.19
+P01122,Jerseys,107.08
+P01123,Accessories,103.46
+P01124,Accessories,50.74
+P01125,Training Gear,121.13
+P01126,Training Gear,45.72
+P01127,Fan Merchandise,50.75
+P01128,Accessories,41.01
+P01129,Jerseys,56.85
+P01130,Footwear,118.71
+P01131,Training Gear,42.49
+P01132,Jerseys,193.99
+P01133,Jerseys,172.25
+P01134,Accessories,83.95
+P01135,Fan Merchandise,45.09
+P01136,Accessories,35.91
+P01137,Footwear,98.39
+P01138,Training Gear,47.02
+P01139,Footwear,139.34
+P01140,Training Gear,133.2
+P01141,Accessories,28.74
+P01142,Training Gear,18.65
+P01143,Training Gear,35.84
+P01144,Jerseys,121.84
+P01145,Fan Merchandise,13.36
+P01146,Footwear,112.59
+P01147,Footwear,60.01
+P01148,Jerseys,70.63
+P01149,Accessories,81.26
+P01150,Footwear,219.91
+P01151,Accessories,29.45
+P01152,Training Gear,50.6
+P01153,Training Gear,60.09
+P01154,Jerseys,168.84
+P01155,Accessories,60.59
+P01156,Footwear,142.72
+P01157,Jerseys,134.24
+P01158,Training Gear,151.11
+P01159,Training Gear,22.95
+P01160,Jerseys,77.9
+P01161,Footwear,108.78
+P01162,Jerseys,125.76
+P01163,Accessories,21.39
+P01164,Footwear,200.77
+P01165,Footwear,162.01
+P01166,Jerseys,190.18
+P01167,Jerseys,191.42
+P01168,Training Gear,90.78
+P01169,Fan Merchandise,74.27
+P01170,Accessories,83.68
+P01171,Jerseys,107.27
+P01172,Training Gear,111.34
+P01173,Footwear,211.49
+P01174,Training Gear,126.49
+P01175,Footwear,167.69
+P01176,Training Gear,49.51
+P01177,Footwear,189.6
+P01178,Fan Merchandise,40.45
+P01179,Footwear,152.33
+P01180,Fan Merchandise,61.47
+P01181,Accessories,61.52
+P01182,Footwear,69.81
+P01183,Fan Merchandise,62.91
+P01184,Footwear,84.5
+P01185,Accessories,36.54
+P01186,Jerseys,73.38
+P01187,Fan Merchandise,57.26
+P01188,Training Gear,34.67
+P01189,Accessories,44.52
+P01190,Fan Merchandise,76.94
+P01191,Training Gear,82.34
+P01192,Fan Merchandise,77.3
+P01193,Jerseys,126.44
+P01194,Accessories,27.88
+P01195,Jerseys,165.04
+P01196,Accessories,45.34
+P01197,Jerseys,195.13
+P01198,Fan Merchandise,31.14
+P01199,Accessories,92.21
+P01200,Accessories,59.39
+P01201,Footwear,191.58
+P01202,Footwear,72.95
+P01203,Fan Merchandise,58.26
+P01204,Accessories,21.32
+P01205,Training Gear,132.38
+P01206,Accessories,33.57
+P01207,Footwear,116.96
+P01208,Fan Merchandise,59.89
+P01209,Fan Merchandise,46.91
+P01210,Footwear,180.2
+P01211,Fan Merchandise,62.24
+P01212,Footwear,63.47
+P01213,Jerseys,167.15
+P01214,Footwear,116.23
+P01215,Accessories,69.78
+P01216,Fan Merchandise,27.81
+P01217,Jerseys,116.35
+P01218,Fan Merchandise,71.65
+P01219,Fan Merchandise,79.62
+P01220,Jerseys,191.11
+P01221,Footwear,166.02
+P01222,Jerseys,66.44
+P01223,Footwear,119.67
+P01224,Training Gear,45.42
+P01225,Fan Merchandise,62.93
+P01226,Footwear,69.05
+P01227,Accessories,107.76
+P01228,Jerseys,83.21
+P01229,Footwear,49.49
+P01230,Jerseys,177.31
+P01231,Footwear,76.41
+P01232,Jerseys,58.48
+P01233,Jerseys,134.47
+P01234,Jerseys,195.54
+P01235,Accessories,36.75
+P01236,Accessories,50.87
+P01237,Jerseys,89.39
+P01238,Accessories,65.8
+P01239,Jerseys,101.8
+P01240,Training Gear,101.97
+P01241,Footwear,126.04
+P01242,Accessories,102.89
+P01243,Footwear,160.6
+P01244,Jerseys,153.98
+P01245,Accessories,58.65
+P01246,Fan Merchandise,34.13
+P01247,Training Gear,62.58
+P01248,Accessories,60.4
+P01249,Jerseys,82.83
+P01250,Fan Merchandise,21.67
+P01251,Jerseys,108.99
+P01252,Accessories,23.05
+P01253,Training Gear,50.77
+P01254,Jerseys,132.58
+P01255,Accessories,89.01
+P01256,Footwear,80.46
+P01257,Footwear,182.5
+P01258,Training Gear,20.21
+P01259,Footwear,219.46
+P01260,Jerseys,129.96
+P01261,Accessories,57.59
+P01262,Jerseys,149.33
+P01263,Footwear,125.53
+P01264,Footwear,113.44
+P01265,Accessories,47.1
+P01266,Jerseys,196.79
+P01267,Fan Merchandise,74.89
+P01268,Jerseys,127.85
+P01269,Training Gear,136.78
+P01270,Jerseys,76.62
+P01271,Jerseys,131.77
+P01272,Training Gear,81.92
+P01273,Training Gear,64.13
+P01274,Jerseys,188.17
+P01275,Jerseys,175.71
+P01276,Training Gear,146.81
+P01277,Footwear,154.34
+P01278,Jerseys,109.55
+P01279,Accessories,85.68
+P01280,Training Gear,33.42
+P01281,Accessories,95.31
+P01282,Accessories,12.88
+P01283,Training Gear,134.19
+P01284,Footwear,166.71
+P01285,Fan Merchandise,18.46
+P01286,Footwear,66.46
+P01287,Fan Merchandise,45.02
+P01288,Accessories,39.99
+P01289,Jerseys,180.76
+P01290,Accessories,29.28
+P01291,Training Gear,77.23
+P01292,Accessories,36.05
+P01293,Footwear,62.89
+P01294,Footwear,86.75
+P01295,Accessories,96.0
+P01296,Fan Merchandise,64.23
+P01297,Jerseys,187.56
+P01298,Jerseys,113.77
+P01299,Fan Merchandise,29.55
+P01300,Jerseys,58.82
+P01301,Footwear,129.13
+P01302,Jerseys,60.76
+P01303,Accessories,10.43
+P01304,Training Gear,103.87
+P01305,Accessories,26.48
+P01306,Footwear,140.76
+P01307,Training Gear,99.44
+P01308,Jerseys,159.96
+P01309,Training Gear,72.4
+P01310,Jerseys,157.25
+P01311,Training Gear,69.97
+P01312,Training Gear,31.89
+P01313,Training Gear,62.02
+P01314,Footwear,41.36
+P01315,Training Gear,83.67
+P01316,Fan Merchandise,66.04
+P01317,Jerseys,168.79
+P01318,Accessories,33.21
+P01319,Accessories,20.56
+P01320,Training Gear,44.33
+P01321,Fan Merchandise,83.81
+P01322,Jerseys,100.25
+P01323,Fan Merchandise,43.34
+P01324,Footwear,53.61
+P01325,Jerseys,169.45
+P01326,Fan Merchandise,44.74
+P01327,Accessories,18.74
+P01328,Fan Merchandise,46.52
+P01329,Accessories,81.33
+P01330,Jerseys,123.59
+P01331,Fan Merchandise,82.71
+P01332,Footwear,196.9
+P01333,Training Gear,91.1
+P01334,Training Gear,151.55
+P01335,Training Gear,133.22
+P01336,Training Gear,70.29
+P01337,Accessories,87.14
+P01338,Accessories,60.59
+P01339,Training Gear,94.55
+P01340,Jerseys,130.49
+P01341,Training Gear,132.12
+P01342,Footwear,205.34
+P01343,Training Gear,63.37
+P01344,Accessories,74.19
+P01345,Training Gear,107.23
+P01346,Accessories,98.75
+P01347,Accessories,54.72
+P01348,Training Gear,45.0
+P01349,Jerseys,84.45
+P01350,Jerseys,62.44
+P01351,Footwear,58.13
+P01352,Accessories,40.12
+P01353,Accessories,20.26
+P01354,Accessories,97.11
+P01355,Footwear,105.16
+P01356,Footwear,106.32
+P01357,Training Gear,125.57
+P01358,Fan Merchandise,34.0
+P01359,Footwear,168.73
+P01360,Footwear,188.04
+P01361,Footwear,104.83
+P01362,Fan Merchandise,46.88
+P01363,Fan Merchandise,35.52
+P01364,Accessories,52.32
+P01365,Fan Merchandise,54.39
+P01366,Training Gear,67.65
+P01367,Jerseys,122.3
+P01368,Jerseys,126.95
+P01369,Jerseys,58.55
+P01370,Training Gear,41.24
+P01371,Accessories,64.14
+P01372,Accessories,10.27
+P01373,Fan Merchandise,63.41
+P01374,Footwear,202.98
+P01375,Jerseys,164.41
+P01376,Fan Merchandise,34.93
+P01377,Training Gear,81.88
+P01378,Footwear,157.13
+P01379,Accessories,78.04
+P01380,Training Gear,156.8
+P01381,Fan Merchandise,47.99
+P01382,Accessories,34.95
+P01383,Jerseys,107.52
+P01384,Footwear,206.04
+P01385,Jerseys,146.74
+P01386,Jerseys,180.32
+P01387,Fan Merchandise,64.86
+P01388,Fan Merchandise,82.48
+P01389,Training Gear,89.17
+P01390,Footwear,210.98
+P01391,Jerseys,183.45
+P01392,Fan Merchandise,73.55
+P01393,Footwear,209.04
+P01394,Footwear,134.6
+P01395,Jerseys,162.71
+P01396,Footwear,139.96
+P01397,Footwear,179.73
+P01398,Jerseys,165.74
+P01399,Training Gear,125.69
+P01400,Footwear,117.12
+P01401,Accessories,89.63
+P01402,Accessories,97.65
+P01403,Accessories,73.63
+P01404,Accessories,55.47
+P01405,Footwear,193.58
+P01406,Footwear,180.12
+P01407,Accessories,56.96
+P01408,Training Gear,100.34
+P01409,Jerseys,154.44
+P01410,Accessories,78.83
+P01411,Training Gear,62.17
+P01412,Fan Merchandise,33.37
+P01413,Fan Merchandise,76.78
+P01414,Accessories,103.7
+P01415,Training Gear,75.09
+P01416,Accessories,101.34
+P01417,Fan Merchandise,46.36
+P01418,Fan Merchandise,24.21
+P01419,Jerseys,161.27
+P01420,Training Gear,24.52
+P01421,Training Gear,34.18
+P01422,Accessories,104.1
+P01423,Jerseys,130.06
+P01424,Fan Merchandise,31.45
+P01425,Jerseys,124.66
+P01426,Accessories,67.82
+P01427,Footwear,155.0
+P01428,Fan Merchandise,37.42
+P01429,Training Gear,73.01
+P01430,Footwear,138.96
+P01431,Fan Merchandise,57.75
+P01432,Training Gear,148.83
+P01433,Footwear,110.61
+P01434,Jerseys,181.83
+P01435,Jerseys,199.02
+P01436,Training Gear,66.14
+P01437,Accessories,12.73
+P01438,Footwear,148.79
+P01439,Jerseys,186.03
+P01440,Accessories,15.34
+P01441,Footwear,75.49
+P01442,Accessories,77.62
+P01443,Footwear,185.74
+P01444,Fan Merchandise,18.32
+P01445,Fan Merchandise,38.55
+P01446,Training Gear,51.9
+P01447,Footwear,213.68
+P01448,Accessories,78.25
+P01449,Fan Merchandise,46.72
+P01450,Accessories,96.24
+P01451,Footwear,136.78
+P01452,Footwear,204.04
+P01453,Accessories,33.88
+P01454,Accessories,12.73
+P01455,Training Gear,78.88
+P01456,Training Gear,47.01
+P01457,Fan Merchandise,73.01
+P01458,Training Gear,93.68
+P01459,Fan Merchandise,33.07
+P01460,Footwear,179.24
+P01461,Footwear,134.84
+P01462,Fan Merchandise,48.7
+P01463,Jerseys,81.21
+P01464,Training Gear,159.32
+P01465,Footwear,158.62
+P01466,Footwear,193.87
+P01467,Fan Merchandise,67.46
+P01468,Training Gear,89.42
+P01469,Training Gear,19.38
+P01470,Footwear,160.0
+P01471,Jerseys,69.61
+P01472,Fan Merchandise,82.19
+P01473,Training Gear,53.4
+P01474,Jerseys,108.26
+P01475,Accessories,65.16
+P01476,Footwear,130.47
+P01477,Fan Merchandise,59.83
+P01478,Footwear,181.02
+P01479,Training Gear,125.59
+P01480,Footwear,203.46
+P01481,Fan Merchandise,46.3
+P01482,Fan Merchandise,50.99
+P01483,Jerseys,181.74
+P01484,Jerseys,95.94
+P01485,Accessories,34.59
+P01486,Accessories,10.91
+P01487,Fan Merchandise,65.91
+P01488,Accessories,78.76
+P01489,Footwear,89.81
+P01490,Training Gear,36.45
+P01491,Footwear,47.66
+P01492,Accessories,58.79
+P01493,Training Gear,45.47
+P01494,Training Gear,130.66
+P01495,Footwear,211.01
+P01496,Jerseys,167.64
+P01497,Accessories,95.16
+P01498,Jerseys,198.66
+P01499,Fan Merchandise,66.08
+P01500,Accessories,66.73
+P01501,Jerseys,172.45
+P01502,Jerseys,136.76
+P01503,Fan Merchandise,43.57
+P01504,Fan Merchandise,14.37
+P01505,Jerseys,148.23
+P01506,Footwear,201.55
+P01507,Jerseys,155.51
+P01508,Accessories,50.41
+P01509,Fan Merchandise,57.03
+P01510,Training Gear,133.44
+P01511,Training Gear,126.52
+P01512,Accessories,59.12
+P01513,Training Gear,69.36
+P01514,Jerseys,112.55
+P01515,Accessories,100.79
+P01516,Accessories,26.99
+P01517,Fan Merchandise,75.0
+P01518,Fan Merchandise,26.26
+P01519,Jerseys,197.23
+P01520,Training Gear,81.66
+P01521,Training Gear,122.15
+P01522,Training Gear,121.57
+P01523,Accessories,87.25
+P01524,Training Gear,130.09
+P01525,Fan Merchandise,14.85
+P01526,Fan Merchandise,31.95
+P01527,Jerseys,88.31
+P01528,Training Gear,117.2
+P01529,Fan Merchandise,61.88
+P01530,Accessories,39.7
+P01531,Training Gear,130.68
+P01532,Jerseys,100.18
+P01533,Fan Merchandise,37.03
+P01534,Jerseys,112.83
+P01535,Accessories,84.46
+P01536,Jerseys,56.71
+P01537,Jerseys,186.44
+P01538,Jerseys,155.35
+P01539,Footwear,145.59
+P01540,Footwear,82.72
+P01541,Fan Merchandise,69.34
+P01542,Jerseys,181.55
+P01543,Footwear,130.28
+P01544,Footwear,92.64
+P01545,Footwear,108.5
+P01546,Footwear,114.93
+P01547,Training Gear,61.44
+P01548,Accessories,81.22
+P01549,Jerseys,104.62
+P01550,Accessories,92.12
+P01551,Footwear,123.46
+P01552,Fan Merchandise,57.91
+P01553,Training Gear,152.61
+P01554,Footwear,120.29
+P01555,Footwear,70.66
+P01556,Accessories,64.99
+P01557,Footwear,129.4
+P01558,Footwear,180.86
+P01559,Fan Merchandise,74.79
+P01560,Accessories,81.26
+P01561,Footwear,214.86
+P01562,Training Gear,56.23
+P01563,Footwear,83.06
+P01564,Jerseys,97.24
+P01565,Fan Merchandise,60.98
+P01566,Accessories,33.25
+P01567,Accessories,18.84
+P01568,Fan Merchandise,83.37
+P01569,Fan Merchandise,34.97
+P01570,Training Gear,49.58
+P01571,Accessories,45.87
+P01572,Jerseys,77.97
+P01573,Fan Merchandise,14.61
+P01574,Jerseys,99.28
+P01575,Fan Merchandise,36.66
+P01576,Jerseys,172.6
+P01577,Accessories,53.56
+P01578,Fan Merchandise,65.78
+P01579,Accessories,83.57
+P01580,Footwear,182.02
+P01581,Accessories,101.85
+P01582,Fan Merchandise,48.4
+P01583,Training Gear,32.76
+P01584,Accessories,13.87
+P01585,Footwear,73.64
+P01586,Jerseys,175.24
+P01587,Accessories,67.43
+P01588,Footwear,65.22
+P01589,Training Gear,36.83
+P01590,Accessories,99.15
+P01591,Jerseys,130.4
+P01592,Jerseys,79.93
+P01593,Footwear,201.41
+P01594,Accessories,82.07
+P01595,Accessories,57.78
+P01596,Jerseys,122.43
+P01597,Fan Merchandise,61.1
+P01598,Jerseys,104.05
+P01599,Accessories,109.99
+P01600,Training Gear,129.41
+P01601,Jerseys,147.94
+P01602,Jerseys,154.68
+P01603,Training Gear,159.44
+P01604,Jerseys,56.56
+P01605,Jerseys,58.31
+P01606,Fan Merchandise,69.31
+P01607,Accessories,30.94
+P01608,Training Gear,115.29
+P01609,Accessories,60.33
+P01610,Accessories,41.87
+P01611,Footwear,81.64
+P01612,Footwear,179.81
+P01613,Accessories,27.1
+P01614,Footwear,68.57
+P01615,Accessories,54.19
+P01616,Jerseys,72.3
+P01617,Footwear,155.47
+P01618,Accessories,109.2
+P01619,Fan Merchandise,66.6
+P01620,Jerseys,142.47
+P01621,Fan Merchandise,40.81
+P01622,Footwear,217.84
+P01623,Footwear,198.39
+P01624,Training Gear,134.52
+P01625,Training Gear,50.66
+P01626,Jerseys,72.92
+P01627,Jerseys,80.8
+P01628,Training Gear,54.73
+P01629,Accessories,18.17
+P01630,Footwear,199.92
+P01631,Footwear,73.34
+P01632,Footwear,80.79
+P01633,Fan Merchandise,76.84
+P01634,Accessories,105.81
+P01635,Jerseys,87.16
+P01636,Footwear,92.95
+P01637,Footwear,184.02
+P01638,Fan Merchandise,82.83
+P01639,Training Gear,110.25
+P01640,Accessories,54.26
+P01641,Fan Merchandise,61.24
+P01642,Jerseys,168.14
+P01643,Accessories,21.27
+P01644,Jerseys,118.12
+P01645,Footwear,194.31
+P01646,Accessories,80.54
+P01647,Training Gear,39.84
+P01648,Footwear,175.94
+P01649,Accessories,76.74
+P01650,Training Gear,55.58
+P01651,Fan Merchandise,37.11
+P01652,Accessories,41.44
+P01653,Footwear,218.78
+P01654,Training Gear,44.09
+P01655,Footwear,189.29
+P01656,Jerseys,131.94
+P01657,Footwear,198.49
+P01658,Accessories,108.19
+P01659,Accessories,106.11
+P01660,Training Gear,139.3
+P01661,Accessories,51.36
+P01662,Training Gear,56.52
+P01663,Accessories,41.95
+P01664,Accessories,75.31
+P01665,Footwear,101.53
+P01666,Footwear,118.28
+P01667,Accessories,17.97
+P01668,Fan Merchandise,68.28
+P01669,Footwear,60.06
+P01670,Accessories,43.7
+P01671,Jerseys,140.61
+P01672,Jerseys,132.02
+P01673,Jerseys,184.5
+P01674,Footwear,158.56
+P01675,Jerseys,169.41
+P01676,Training Gear,61.09
+P01677,Fan Merchandise,21.65
+P01678,Footwear,173.8
+P01679,Footwear,67.64
+P01680,Accessories,93.42
+P01681,Jerseys,191.74
+P01682,Training Gear,58.18
+P01683,Accessories,86.1
+P01684,Training Gear,80.1
+P01685,Footwear,93.82
+P01686,Training Gear,79.22
+P01687,Fan Merchandise,59.21
+P01688,Fan Merchandise,84.13
+P01689,Training Gear,60.61
+P01690,Accessories,80.59
+P01691,Footwear,100.28
+P01692,Accessories,35.14
+P01693,Fan Merchandise,58.12
+P01694,Training Gear,126.1
+P01695,Accessories,81.74
+P01696,Fan Merchandise,80.81
+P01697,Jerseys,70.57
+P01698,Jerseys,133.4
+P01699,Accessories,39.08
+P01700,Jerseys,173.46
+P01701,Footwear,51.16
+P01702,Fan Merchandise,24.83
+P01703,Accessories,87.2
+P01704,Accessories,45.46
+P01705,Footwear,162.72
+P01706,Jerseys,199.78
+P01707,Fan Merchandise,45.57
+P01708,Training Gear,93.68
+P01709,Footwear,215.56
+P01710,Fan Merchandise,66.49
+P01711,Fan Merchandise,26.36
+P01712,Fan Merchandise,70.71
+P01713,Accessories,61.59
+P01714,Jerseys,169.17
+P01715,Fan Merchandise,55.69
+P01716,Accessories,32.73
+P01717,Jerseys,173.09
+P01718,Jerseys,55.29
+P01719,Accessories,98.8
+P01720,Accessories,91.86
+P01721,Training Gear,155.76
+P01722,Jerseys,60.15
+P01723,Jerseys,118.46
+P01724,Training Gear,42.02
+P01725,Jerseys,109.23
+P01726,Footwear,104.76
+P01727,Training Gear,102.85
+P01728,Training Gear,80.12
+P01729,Fan Merchandise,82.49
+P01730,Jerseys,95.28
+P01731,Accessories,51.88
+P01732,Training Gear,117.49
+P01733,Training Gear,57.27
+P01734,Footwear,170.29
+P01735,Training Gear,118.64
+P01736,Accessories,81.22
+P01737,Footwear,161.51
+P01738,Footwear,187.14
+P01739,Footwear,219.09
+P01740,Training Gear,25.86
+P01741,Jerseys,127.09
+P01742,Fan Merchandise,71.35
+P01743,Footwear,40.01
+P01744,Fan Merchandise,51.8
+P01745,Accessories,75.98
+P01746,Training Gear,45.23
+P01747,Accessories,50.08
+P01748,Fan Merchandise,69.63
+P01749,Accessories,16.67
+P01750,Accessories,23.49
+P01751,Training Gear,134.17
+P01752,Accessories,90.92
+P01753,Training Gear,101.84
+P01754,Footwear,114.91
+P01755,Fan Merchandise,19.71
+P01756,Training Gear,133.22
+P01757,Training Gear,52.33
+P01758,Accessories,101.32
+P01759,Accessories,87.58
+P01760,Fan Merchandise,17.91
+P01761,Jerseys,147.15
+P01762,Training Gear,148.73
+P01763,Jerseys,182.48
+P01764,Footwear,150.4
+P01765,Fan Merchandise,24.55
+P01766,Jerseys,153.64
+P01767,Jerseys,151.59
+P01768,Jerseys,140.37
+P01769,Training Gear,55.74
+P01770,Accessories,100.03
+P01771,Training Gear,89.37
+P01772,Jerseys,98.08
+P01773,Jerseys,92.01
+P01774,Footwear,90.58
+P01775,Jerseys,121.86
+P01776,Footwear,81.55
+P01777,Footwear,133.13
+P01778,Accessories,29.2
+P01779,Fan Merchandise,31.78
+P01780,Jerseys,72.35
+P01781,Accessories,45.74
+P01782,Accessories,50.6
+P01783,Accessories,50.37
+P01784,Fan Merchandise,64.92
+P01785,Fan Merchandise,47.29
+P01786,Training Gear,116.41
+P01787,Footwear,45.97
+P01788,Accessories,53.66
+P01789,Training Gear,30.75
+P01790,Training Gear,83.62
+P01791,Accessories,71.52
+P01792,Accessories,89.67
+P01793,Fan Merchandise,52.17
+P01794,Training Gear,71.89
+P01795,Jerseys,93.35
+P01796,Footwear,212.34
+P01797,Training Gear,46.16
+P01798,Fan Merchandise,15.1
+P01799,Footwear,62.66
+P01800,Jerseys,199.64
+P01801,Accessories,100.61
+P01802,Fan Merchandise,35.38
+P01803,Fan Merchandise,12.28
+P01804,Footwear,178.1
+P01805,Footwear,94.1
+P01806,Fan Merchandise,13.62
+P01807,Footwear,122.19
+P01808,Accessories,52.42
+P01809,Accessories,46.18
+P01810,Jerseys,149.74
+P01811,Fan Merchandise,65.0
+P01812,Footwear,140.65
+P01813,Fan Merchandise,13.02
+P01814,Fan Merchandise,13.64
+P01815,Accessories,98.17
+P01816,Training Gear,44.47
+P01817,Footwear,111.65
+P01818,Fan Merchandise,19.56
+P01819,Footwear,81.27
+P01820,Training Gear,86.92
+P01821,Footwear,82.4
+P01822,Accessories,75.91
+P01823,Footwear,106.12
+P01824,Jerseys,169.33
+P01825,Footwear,148.35
+P01826,Footwear,85.71
+P01827,Footwear,185.51
+P01828,Footwear,207.78
+P01829,Fan Merchandise,20.76
+P01830,Accessories,76.97
+P01831,Footwear,153.54
+P01832,Training Gear,113.1
+P01833,Fan Merchandise,14.28
+P01834,Jerseys,59.08
+P01835,Jerseys,97.75
+P01836,Accessories,18.02
+P01837,Accessories,46.61
+P01838,Training Gear,141.88
+P01839,Accessories,45.44
+P01840,Training Gear,73.78
+P01841,Fan Merchandise,31.53
+P01842,Training Gear,77.87
+P01843,Accessories,89.75
+P01844,Fan Merchandise,72.66
+P01845,Fan Merchandise,42.74
+P01846,Fan Merchandise,40.97
+P01847,Footwear,75.11
+P01848,Footwear,215.61
+P01849,Jerseys,100.09
+P01850,Jerseys,104.68
+P01851,Training Gear,79.04
+P01852,Fan Merchandise,17.87
+P01853,Footwear,99.14
+P01854,Jerseys,189.93
+P01855,Jerseys,65.79
+P01856,Training Gear,52.15
+P01857,Training Gear,48.92
+P01858,Footwear,82.31
+P01859,Jerseys,193.42
+P01860,Training Gear,118.61
+P01861,Fan Merchandise,79.14
+P01862,Training Gear,139.78
+P01863,Jerseys,145.59
+P01864,Footwear,140.77
+P01865,Fan Merchandise,49.16
+P01866,Footwear,164.12
+P01867,Training Gear,117.66
+P01868,Fan Merchandise,55.76
+P01869,Jerseys,120.1
+P01870,Accessories,77.54
+P01871,Fan Merchandise,23.44
+P01872,Training Gear,96.32
+P01873,Jerseys,130.3
+P01874,Fan Merchandise,51.03
+P01875,Footwear,131.95
+P01876,Training Gear,124.54
+P01877,Fan Merchandise,67.3
+P01878,Footwear,99.32
+P01879,Fan Merchandise,37.6
+P01880,Fan Merchandise,13.2
+P01881,Fan Merchandise,20.27
+P01882,Jerseys,93.04
+P01883,Fan Merchandise,67.9
+P01884,Training Gear,131.3
+P01885,Jerseys,90.96
+P01886,Footwear,196.56
+P01887,Training Gear,71.35
+P01888,Accessories,89.81
+P01889,Accessories,56.69
+P01890,Training Gear,119.19
+P01891,Footwear,104.14
+P01892,Fan Merchandise,17.15
+P01893,Accessories,35.41
+P01894,Footwear,165.48
+P01895,Training Gear,148.35
+P01896,Fan Merchandise,57.87
+P01897,Footwear,178.41
+P01898,Training Gear,20.01
+P01899,Training Gear,125.93
+P01900,Fan Merchandise,72.99
+P01901,Footwear,114.28
+P01902,Footwear,128.9
+P01903,Fan Merchandise,15.82
+P01904,Training Gear,42.8
+P01905,Footwear,50.17
+P01906,Accessories,83.14
+P01907,Footwear,183.98
+P01908,Accessories,20.87
+P01909,Fan Merchandise,79.28
+P01910,Footwear,191.11
+P01911,Fan Merchandise,54.07
+P01912,Accessories,107.83
+P01913,Accessories,98.25
+P01914,Training Gear,49.62
+P01915,Footwear,211.73
+P01916,Footwear,119.73
+P01917,Accessories,25.49
+P01918,Accessories,30.01
+P01919,Jerseys,154.21
+P01920,Training Gear,158.23
+P01921,Jerseys,119.56
+P01922,Jerseys,138.1
+P01923,Fan Merchandise,33.92
+P01924,Training Gear,138.05
+P01925,Accessories,21.52
+P01926,Footwear,144.8
+P01927,Jerseys,140.0
+P01928,Jerseys,55.17
+P01929,Accessories,104.06
+P01930,Fan Merchandise,83.13
+P01931,Jerseys,122.78
+P01932,Accessories,82.56
+P01933,Fan Merchandise,73.96
+P01934,Jerseys,71.92
+P01935,Footwear,55.23
+P01936,Fan Merchandise,62.32
+P01937,Footwear,140.71
+P01938,Footwear,162.29
+P01939,Footwear,142.96
+P01940,Accessories,82.64
+P01941,Accessories,25.49
+P01942,Accessories,31.56
+P01943,Jerseys,89.37
+P01944,Accessories,51.65
+P01945,Footwear,176.72
+P01946,Training Gear,136.06
+P01947,Training Gear,74.98
+P01948,Accessories,70.2
+P01949,Jerseys,97.8
+P01950,Fan Merchandise,46.73
+P01951,Footwear,209.36
+P01952,Jerseys,94.05
+P01953,Training Gear,129.89
+P01954,Footwear,47.59
+P01955,Footwear,102.14
+P01956,Accessories,75.88
+P01957,Accessories,87.6
+P01958,Accessories,69.22
+P01959,Footwear,196.46
+P01960,Fan Merchandise,71.92
+P01961,Jerseys,144.54
+P01962,Training Gear,67.43
+P01963,Jerseys,107.74
+P01964,Footwear,150.72
+P01965,Accessories,75.66
+P01966,Footwear,111.03
+P01967,Accessories,49.75
+P01968,Jerseys,80.63
+P01969,Jerseys,55.04
+P01970,Footwear,123.07
+P01971,Jerseys,175.47
+P01972,Footwear,177.98
+P01973,Jerseys,199.12
+P01974,Footwear,160.49
+P01975,Fan Merchandise,29.08
+P01976,Fan Merchandise,61.45
+P01977,Footwear,189.13
+P01978,Footwear,155.38
+P01979,Footwear,126.71
+P01980,Jerseys,144.68
+P01981,Accessories,12.58
+P01982,Jerseys,93.44
+P01983,Training Gear,40.4
+P01984,Fan Merchandise,42.18
+P01985,Footwear,200.75
+P01986,Footwear,73.83
+P01987,Footwear,52.78
+P01988,Footwear,179.85
+P01989,Accessories,96.79
+P01990,Footwear,135.65
+P01991,Footwear,107.78
+P01992,Footwear,117.5
+P01993,Fan Merchandise,60.11
+P01994,Footwear,189.63
+P01995,Training Gear,44.9
+P01996,Jerseys,185.83
+P01997,Jerseys,150.32
+P01998,Accessories,83.83
+P01999,Accessories,18.69
+P02000,Jerseys,188.16
+P02001,Accessories,62.82
+P02002,Jerseys,107.51
+P02003,Jerseys,112.85
+P02004,Footwear,92.75
+P02005,Fan Merchandise,23.9
+P02006,Accessories,13.47
+P02007,Fan Merchandise,31.3
+P02008,Training Gear,88.52
+P02009,Accessories,76.68
+P02010,Training Gear,122.14
+P02011,Accessories,69.56
+P02012,Accessories,21.61
+P02013,Accessories,53.15
+P02014,Footwear,160.13
+P02015,Footwear,173.77
+P02016,Accessories,42.45
+P02017,Footwear,207.12
+P02018,Jerseys,170.33
+P02019,Fan Merchandise,74.18
+P02020,Accessories,76.65
+P02021,Footwear,114.48
+P02022,Footwear,208.15
+P02023,Training Gear,146.01
+P02024,Training Gear,135.64
+P02025,Fan Merchandise,77.05
+P02026,Footwear,204.99
+P02027,Jerseys,163.22
+P02028,Jerseys,84.05
+P02029,Fan Merchandise,51.31
+P02030,Accessories,71.6
+P02031,Fan Merchandise,68.46
+P02032,Jerseys,126.8
+P02033,Training Gear,90.83
+P02034,Jerseys,199.36
+P02035,Jerseys,120.57
+P02036,Accessories,23.0
+P02037,Accessories,80.97
+P02038,Training Gear,69.48
+P02039,Accessories,34.85
+P02040,Training Gear,107.24
+P02041,Jerseys,193.38
+P02042,Jerseys,100.36
+P02043,Jerseys,108.98
+P02044,Footwear,123.79
+P02045,Training Gear,115.7
+P02046,Footwear,111.27
+P02047,Jerseys,116.64
+P02048,Jerseys,156.63
+P02049,Fan Merchandise,83.91
+P02050,Training Gear,62.94
+P02051,Fan Merchandise,54.73
+P02052,Jerseys,170.19
+P02053,Accessories,31.21
+P02054,Jerseys,173.66
+P02055,Training Gear,68.4
+P02056,Footwear,59.98
+P02057,Training Gear,21.54
+P02058,Fan Merchandise,14.42
+P02059,Fan Merchandise,70.23
+P02060,Fan Merchandise,61.27
+P02061,Jerseys,170.06
+P02062,Jerseys,164.18
+P02063,Jerseys,110.24
+P02064,Footwear,207.94
+P02065,Fan Merchandise,76.09
+P02066,Accessories,44.84
+P02067,Training Gear,127.76
+P02068,Training Gear,134.39
+P02069,Footwear,127.92
+P02070,Footwear,61.68
+P02071,Jerseys,103.44
+P02072,Footwear,217.99
+P02073,Fan Merchandise,64.26
+P02074,Fan Merchandise,68.55
+P02075,Fan Merchandise,78.57
+P02076,Accessories,30.28
+P02077,Training Gear,155.51
+P02078,Accessories,61.81
+P02079,Training Gear,123.74
+P02080,Fan Merchandise,35.23
+P02081,Fan Merchandise,36.05
+P02082,Footwear,104.73
+P02083,Training Gear,67.42
+P02084,Jerseys,64.06
+P02085,Jerseys,99.89
+P02086,Accessories,74.74
+P02087,Jerseys,185.79
+P02088,Footwear,47.5
+P02089,Footwear,42.99
+P02090,Fan Merchandise,55.25
+P02091,Fan Merchandise,63.08
+P02092,Training Gear,104.37
+P02093,Training Gear,156.17
+P02094,Jerseys,88.19
+P02095,Fan Merchandise,47.13
+P02096,Accessories,101.59
+P02097,Jerseys,144.54
+P02098,Training Gear,99.95
+P02099,Training Gear,150.46
+P02100,Footwear,101.0
+P02101,Training Gear,40.32
+P02102,Footwear,63.26
+P02103,Training Gear,134.71
+P02104,Accessories,95.69
+P02105,Footwear,82.1
+P02106,Fan Merchandise,45.37
+P02107,Accessories,68.49
+P02108,Footwear,65.03
+P02109,Fan Merchandise,73.96
+P02110,Fan Merchandise,42.58
+P02111,Accessories,96.35
+P02112,Fan Merchandise,67.49
+P02113,Footwear,93.09
+P02114,Jerseys,158.9
+P02115,Fan Merchandise,66.07
+P02116,Jerseys,100.13
+P02117,Accessories,35.37
+P02118,Training Gear,134.93
+P02119,Training Gear,114.27
+P02120,Accessories,83.96
+P02121,Accessories,41.31
+P02122,Training Gear,120.55
+P02123,Training Gear,119.43
+P02124,Footwear,99.99
+P02125,Accessories,37.05
+P02126,Footwear,117.65
+P02127,Footwear,173.04
+P02128,Jerseys,83.07
+P02129,Accessories,97.43
+P02130,Fan Merchandise,30.64
+P02131,Training Gear,137.23
+P02132,Jerseys,77.59
+P02133,Jerseys,162.22
+P02134,Footwear,141.05
+P02135,Footwear,159.06
+P02136,Footwear,215.34
+P02137,Training Gear,25.46
+P02138,Footwear,66.84
+P02139,Fan Merchandise,17.77
+P02140,Jerseys,130.35
+P02141,Accessories,90.28
+P02142,Training Gear,25.79
+P02143,Training Gear,128.68
+P02144,Jerseys,117.79
+P02145,Training Gear,151.68
+P02146,Jerseys,110.49
+P02147,Fan Merchandise,83.88
+P02148,Footwear,140.17
+P02149,Accessories,109.0
+P02150,Fan Merchandise,58.13
+P02151,Training Gear,67.18
+P02152,Training Gear,132.08
+P02153,Jerseys,125.61
+P02154,Training Gear,61.85
+P02155,Jerseys,124.36
+P02156,Jerseys,181.43
+P02157,Footwear,171.82
+P02158,Jerseys,80.2
+P02159,Footwear,190.95
+P02160,Fan Merchandise,43.49
+P02161,Footwear,54.92
+P02162,Accessories,24.72
+P02163,Footwear,51.91
+P02164,Fan Merchandise,61.39
+P02165,Jerseys,92.35
+P02166,Jerseys,68.97
+P02167,Fan Merchandise,38.69
+P02168,Training Gear,141.11
+P02169,Training Gear,107.28
+P02170,Jerseys,125.5
+P02171,Training Gear,122.11
+P02172,Accessories,17.59
+P02173,Training Gear,143.35
+P02174,Footwear,71.99
+P02175,Footwear,43.85
+P02176,Footwear,105.22
+P02177,Fan Merchandise,16.27
+P02178,Footwear,70.07
+P02179,Footwear,173.02
+P02180,Accessories,50.47
+P02181,Training Gear,18.98
+P02182,Accessories,74.38
+P02183,Fan Merchandise,63.62
+P02184,Footwear,202.35
+P02185,Training Gear,39.95
+P02186,Footwear,194.29
+P02187,Jerseys,157.76
+P02188,Accessories,66.36
+P02189,Jerseys,92.96
+P02190,Fan Merchandise,45.42
+P02191,Fan Merchandise,26.47
+P02192,Footwear,169.18
+P02193,Footwear,166.65
+P02194,Footwear,74.48
+P02195,Footwear,85.47
+P02196,Training Gear,145.96
+P02197,Accessories,57.17
+P02198,Footwear,139.2
+P02199,Footwear,212.55
+P02200,Fan Merchandise,27.11
+P02201,Fan Merchandise,57.78
+P02202,Training Gear,127.91
+P02203,Footwear,97.5
+P02204,Accessories,40.88
+P02205,Footwear,201.43
+P02206,Fan Merchandise,19.26
+P02207,Jerseys,77.82
+P02208,Fan Merchandise,42.0
+P02209,Footwear,183.71
+P02210,Fan Merchandise,45.21
+P02211,Jerseys,94.23
+P02212,Training Gear,77.68
+P02213,Footwear,120.18
+P02214,Fan Merchandise,65.07
+P02215,Footwear,196.38
+P02216,Fan Merchandise,35.45
+P02217,Fan Merchandise,63.72
+P02218,Jerseys,156.7
+P02219,Jerseys,166.21
+P02220,Jerseys,138.41
+P02221,Jerseys,57.13
+P02222,Accessories,75.59
+P02223,Footwear,150.21
+P02224,Footwear,150.07
+P02225,Jerseys,95.79
+P02226,Jerseys,69.19
+P02227,Footwear,74.08
+P02228,Fan Merchandise,27.78
+P02229,Footwear,71.25
+P02230,Training Gear,52.72
+P02231,Fan Merchandise,17.01
+P02232,Jerseys,94.05
+P02233,Training Gear,159.7
+P02234,Accessories,61.14
+P02235,Accessories,44.44
+P02236,Jerseys,159.47
+P02237,Fan Merchandise,46.27
+P02238,Footwear,45.31
+P02239,Accessories,64.74
+P02240,Footwear,94.73
+P02241,Accessories,67.12
+P02242,Accessories,27.32
+P02243,Footwear,126.86
+P02244,Jerseys,83.08
+P02245,Fan Merchandise,33.81
+P02246,Jerseys,154.64
+P02247,Footwear,80.98
+P02248,Jerseys,115.48
+P02249,Training Gear,28.39
+P02250,Fan Merchandise,62.16
+P02251,Accessories,63.89
+P02252,Training Gear,133.56
+P02253,Fan Merchandise,51.06
+P02254,Fan Merchandise,84.58
+P02255,Fan Merchandise,29.6
+P02256,Training Gear,123.38
+P02257,Accessories,53.23
+P02258,Jerseys,109.51
+P02259,Footwear,171.68
+P02260,Footwear,212.0
+P02261,Accessories,85.56
+P02262,Training Gear,64.88
+P02263,Fan Merchandise,49.22
+P02264,Fan Merchandise,27.85
+P02265,Fan Merchandise,57.28
+P02266,Training Gear,75.17
+P02267,Fan Merchandise,28.65
+P02268,Jerseys,58.06
+P02269,Accessories,102.53
+P02270,Jerseys,66.43
+P02271,Footwear,99.28
+P02272,Jerseys,82.62
+P02273,Jerseys,126.65
+P02274,Footwear,75.09
+P02275,Footwear,172.52
+P02276,Training Gear,49.92
+P02277,Jerseys,81.89
+P02278,Training Gear,48.8
+P02279,Footwear,93.56
+P02280,Training Gear,109.14
+P02281,Fan Merchandise,27.3
+P02282,Training Gear,116.95
+P02283,Accessories,53.02
+P02284,Accessories,29.7
+P02285,Jerseys,89.81
+P02286,Jerseys,131.46
+P02287,Fan Merchandise,39.64
+P02288,Footwear,132.47
+P02289,Footwear,186.26
+P02290,Training Gear,24.51
+P02291,Footwear,110.85
+P02292,Fan Merchandise,42.33
+P02293,Footwear,85.17
+P02294,Jerseys,119.07
+P02295,Jerseys,137.16
+P02296,Accessories,68.5
+P02297,Training Gear,113.12
+P02298,Training Gear,28.9
+P02299,Jerseys,121.7
+P02300,Jerseys,164.85
+P02301,Training Gear,82.62
+P02302,Footwear,158.17
+P02303,Footwear,146.28
+P02304,Accessories,56.47
+P02305,Fan Merchandise,17.76
+P02306,Jerseys,146.82
+P02307,Footwear,136.21
+P02308,Training Gear,18.81
+P02309,Training Gear,47.37
+P02310,Fan Merchandise,16.48
+P02311,Fan Merchandise,53.63
+P02312,Training Gear,20.15
+P02313,Fan Merchandise,73.5
+P02314,Fan Merchandise,81.16
+P02315,Accessories,107.56
+P02316,Jerseys,87.85
+P02317,Training Gear,88.31
+P02318,Fan Merchandise,77.06
+P02319,Jerseys,154.66
+P02320,Accessories,39.87
+P02321,Fan Merchandise,72.88
+P02322,Jerseys,138.22
+P02323,Fan Merchandise,65.29
+P02324,Footwear,214.49
+P02325,Accessories,109.75
+P02326,Training Gear,89.68
+P02327,Training Gear,40.24
+P02328,Training Gear,105.98
+P02329,Fan Merchandise,59.0
+P02330,Accessories,67.21
+P02331,Fan Merchandise,42.81
+P02332,Jerseys,139.33
+P02333,Accessories,63.4
+P02334,Accessories,104.47
+P02335,Accessories,93.76
+P02336,Jerseys,112.08
+P02337,Jerseys,137.78
+P02338,Jerseys,137.08
+P02339,Jerseys,129.05
+P02340,Jerseys,63.42
+P02341,Footwear,168.27
+P02342,Training Gear,121.84
+P02343,Footwear,127.15
+P02344,Training Gear,146.02
+P02345,Jerseys,197.67
+P02346,Training Gear,133.43
+P02347,Fan Merchandise,79.73
+P02348,Training Gear,87.23
+P02349,Training Gear,147.82
+P02350,Fan Merchandise,80.26
+P02351,Footwear,152.24
+P02352,Accessories,25.07
+P02353,Jerseys,77.08
+P02354,Training Gear,85.07
+P02355,Training Gear,122.45
+P02356,Jerseys,127.7
+P02357,Fan Merchandise,70.39
+P02358,Jerseys,166.62
+P02359,Fan Merchandise,26.86
+P02360,Accessories,23.28
+P02361,Accessories,80.58
+P02362,Training Gear,63.49
+P02363,Jerseys,190.05
+P02364,Fan Merchandise,75.4
+P02365,Fan Merchandise,44.94
+P02366,Jerseys,139.17
+P02367,Jerseys,177.83
+P02368,Footwear,196.85
+P02369,Accessories,65.7
+P02370,Training Gear,156.01
+P02371,Footwear,133.77
+P02372,Footwear,47.4
+P02373,Accessories,66.27
+P02374,Jerseys,167.67
+P02375,Jerseys,197.82
+P02376,Accessories,20.54
+P02377,Jerseys,118.88
+P02378,Training Gear,101.3
+P02379,Jerseys,182.81
+P02380,Accessories,81.59
+P02381,Jerseys,88.53
+P02382,Jerseys,179.61
+P02383,Accessories,76.42
+P02384,Fan Merchandise,77.35
+P02385,Training Gear,136.48
+P02386,Footwear,63.27
+P02387,Accessories,106.05
+P02388,Accessories,55.43
+P02389,Footwear,216.86
+P02390,Training Gear,44.56
+P02391,Jerseys,170.03
+P02392,Training Gear,61.29
+P02393,Accessories,14.48
+P02394,Footwear,218.93
+P02395,Fan Merchandise,34.16
+P02396,Footwear,54.49
+P02397,Fan Merchandise,74.82
+P02398,Fan Merchandise,43.54
+P02399,Accessories,67.65
+P02400,Jerseys,197.8
+P02401,Jerseys,124.7
+P02402,Accessories,16.71
+P02403,Fan Merchandise,62.46
+P02404,Accessories,81.06
+P02405,Jerseys,83.16
+P02406,Fan Merchandise,51.82
+P02407,Fan Merchandise,38.95
+P02408,Fan Merchandise,15.64
+P02409,Jerseys,100.18
+P02410,Accessories,100.95
+P02411,Jerseys,98.54
+P02412,Fan Merchandise,28.28
+P02413,Fan Merchandise,80.69
+P02414,Training Gear,72.29
+P02415,Jerseys,191.38
+P02416,Fan Merchandise,76.26
+P02417,Training Gear,84.81
+P02418,Footwear,109.29
+P02419,Footwear,64.79
+P02420,Footwear,74.31
+P02421,Accessories,33.24
+P02422,Jerseys,123.2
+P02423,Footwear,106.98
+P02424,Accessories,90.04
+P02425,Fan Merchandise,33.66
+P02426,Training Gear,78.28
+P02427,Fan Merchandise,20.96
+P02428,Training Gear,56.51
+P02429,Accessories,88.3
+P02430,Training Gear,118.41
+P02431,Jerseys,113.32
+P02432,Training Gear,100.0
+P02433,Training Gear,83.08
+P02434,Fan Merchandise,77.35
+P02435,Jerseys,112.23
+P02436,Jerseys,159.71
+P02437,Jerseys,86.69
+P02438,Footwear,118.14
+P02439,Footwear,135.28
+P02440,Jerseys,70.17
+P02441,Footwear,145.74
+P02442,Training Gear,99.6
+P02443,Fan Merchandise,23.59
+P02444,Training Gear,159.81
+P02445,Accessories,19.25
+P02446,Jerseys,184.82
+P02447,Jerseys,126.27
+P02448,Training Gear,49.62
+P02449,Footwear,60.3
+P02450,Fan Merchandise,63.06
+P02451,Jerseys,164.4
+P02452,Jerseys,152.65
+P02453,Footwear,115.58
+P02454,Accessories,27.26
+P02455,Footwear,182.12
+P02456,Training Gear,141.71
+P02457,Footwear,110.54
+P02458,Jerseys,176.98
+P02459,Footwear,154.41
+P02460,Training Gear,92.83
+P02461,Fan Merchandise,56.57
+P02462,Fan Merchandise,19.87
+P02463,Accessories,22.54
+P02464,Training Gear,121.19
+P02465,Footwear,214.59
+P02466,Fan Merchandise,49.07
+P02467,Fan Merchandise,15.94
+P02468,Footwear,52.25
+P02469,Footwear,124.13
+P02470,Accessories,75.77
+P02471,Footwear,67.88
+P02472,Jerseys,59.79
+P02473,Jerseys,160.77
+P02474,Footwear,66.3
+P02475,Fan Merchandise,43.99
+P02476,Accessories,83.41
+P02477,Accessories,22.53
+P02478,Accessories,54.28
+P02479,Jerseys,71.16
+P02480,Accessories,44.75
+P02481,Training Gear,147.57
+P02482,Jerseys,154.49
+P02483,Fan Merchandise,13.69
+P02484,Training Gear,37.1
+P02485,Accessories,39.38
+P02486,Jerseys,184.85
+P02487,Footwear,174.48
+P02488,Accessories,71.75
+P02489,Fan Merchandise,23.14
+P02490,Fan Merchandise,79.81
+P02491,Fan Merchandise,70.99
+P02492,Footwear,83.1
+P02493,Fan Merchandise,41.52
+P02494,Accessories,52.84
+P02495,Training Gear,101.43
+P02496,Fan Merchandise,39.36
+P02497,Jerseys,85.45
+P02498,Fan Merchandise,60.69
+P02499,Accessories,77.76
+P02500,Jerseys,119.15
+P02501,Accessories,58.67
+P02502,Footwear,49.12
+P02503,Footwear,122.1
+P02504,Fan Merchandise,70.43
+P02505,Jerseys,140.76
+P02506,Fan Merchandise,79.21
+P02507,Accessories,81.65
+P02508,Fan Merchandise,68.77
+P02509,Fan Merchandise,45.46
+P02510,Fan Merchandise,24.66
+P02511,Jerseys,187.27
+P02512,Training Gear,111.61
+P02513,Jerseys,186.87
+P02514,Fan Merchandise,57.08
+P02515,Accessories,55.45
+P02516,Jerseys,74.54
+P02517,Accessories,49.77
+P02518,Accessories,69.76
+P02519,Jerseys,189.96
+P02520,Jerseys,175.25
+P02521,Footwear,132.37
+P02522,Training Gear,81.61
+P02523,Fan Merchandise,14.43
+P02524,Footwear,103.21
+P02525,Fan Merchandise,83.64
+P02526,Accessories,84.1
+P02527,Fan Merchandise,50.31
+P02528,Accessories,96.23
+P02529,Footwear,44.15
+P02530,Footwear,212.37
+P02531,Fan Merchandise,63.08
+P02532,Fan Merchandise,12.97
+P02533,Fan Merchandise,63.5
+P02534,Footwear,54.96
+P02535,Fan Merchandise,58.69
+P02536,Jerseys,98.63
+P02537,Fan Merchandise,27.48
+P02538,Jerseys,146.07
+P02539,Fan Merchandise,43.68
+P02540,Training Gear,27.16
+P02541,Jerseys,174.24
+P02542,Fan Merchandise,31.43
+P02543,Accessories,71.82
+P02544,Jerseys,143.36
+P02545,Jerseys,63.14
+P02546,Fan Merchandise,84.8
+P02547,Jerseys,119.91
+P02548,Footwear,76.96
+P02549,Training Gear,80.02
+P02550,Accessories,70.31
+P02551,Fan Merchandise,12.22
+P02552,Accessories,40.01
+P02553,Accessories,63.63
+P02554,Fan Merchandise,62.7
+P02555,Footwear,96.4
+P02556,Jerseys,113.57
+P02557,Accessories,32.12
+P02558,Training Gear,59.61
+P02559,Jerseys,154.67
+P02560,Training Gear,65.89
+P02561,Fan Merchandise,32.41
+P02562,Accessories,39.86
+P02563,Jerseys,143.83
+P02564,Footwear,140.95
+P02565,Accessories,50.69
+P02566,Footwear,153.82
+P02567,Jerseys,148.21
+P02568,Jerseys,56.9
+P02569,Training Gear,66.15
+P02570,Jerseys,90.42
+P02571,Accessories,92.91
+P02572,Jerseys,94.94
+P02573,Footwear,97.11
+P02574,Jerseys,132.98
+P02575,Fan Merchandise,51.96
+P02576,Accessories,91.1
+P02577,Jerseys,111.25
+P02578,Training Gear,57.93
+P02579,Footwear,149.48
+P02580,Training Gear,121.42
+P02581,Footwear,218.67
+P02582,Training Gear,105.8
+P02583,Training Gear,87.68
+P02584,Fan Merchandise,21.71
+P02585,Footwear,217.65
+P02586,Accessories,78.5
+P02587,Training Gear,41.43
+P02588,Accessories,55.97
+P02589,Jerseys,136.24
+P02590,Accessories,31.69
+P02591,Footwear,171.85
+P02592,Accessories,75.03
+P02593,Footwear,82.07
+P02594,Fan Merchandise,84.25
+P02595,Jerseys,192.56
+P02596,Footwear,87.79
+P02597,Footwear,119.53
+P02598,Training Gear,145.06
+P02599,Accessories,50.63
+P02600,Fan Merchandise,81.7
+P02601,Fan Merchandise,26.63
+P02602,Accessories,82.4
+P02603,Jerseys,141.93
+P02604,Accessories,44.62
+P02605,Jerseys,159.08
+P02606,Accessories,12.42
+P02607,Footwear,81.56
+P02608,Training Gear,55.1
+P02609,Accessories,21.75
+P02610,Jerseys,59.92
+P02611,Accessories,45.29
+P02612,Footwear,79.29
+P02613,Jerseys,74.27
+P02614,Training Gear,40.34
+P02615,Fan Merchandise,72.32
+P02616,Fan Merchandise,18.93
+P02617,Accessories,82.49
+P02618,Accessories,15.4
+P02619,Footwear,47.31
+P02620,Accessories,54.22
+P02621,Accessories,48.19
+P02622,Footwear,138.23
+P02623,Footwear,166.48
+P02624,Footwear,95.77
+P02625,Jerseys,83.19
+P02626,Footwear,187.98
+P02627,Jerseys,78.97
+P02628,Accessories,89.85
+P02629,Jerseys,140.14
+P02630,Footwear,92.09
+P02631,Accessories,41.43
+P02632,Fan Merchandise,39.06
+P02633,Jerseys,140.71
+P02634,Jerseys,197.05
+P02635,Accessories,41.83
+P02636,Jerseys,191.57
+P02637,Jerseys,84.75
+P02638,Accessories,21.3
+P02639,Jerseys,132.16
+P02640,Fan Merchandise,83.28
+P02641,Training Gear,86.85
+P02642,Jerseys,170.99
+P02643,Accessories,57.25
+P02644,Training Gear,138.7
+P02645,Accessories,91.27
+P02646,Training Gear,115.44
+P02647,Fan Merchandise,56.92
+P02648,Jerseys,130.13
+P02649,Jerseys,193.73
+P02650,Footwear,140.33
+P02651,Fan Merchandise,36.61
+P02652,Jerseys,182.92
+P02653,Fan Merchandise,60.18
+P02654,Accessories,65.82
+P02655,Training Gear,114.87
+P02656,Fan Merchandise,37.47
+P02657,Footwear,115.75
+P02658,Jerseys,83.36
+P02659,Accessories,95.5
+P02660,Fan Merchandise,60.59
+P02661,Fan Merchandise,72.17
+P02662,Accessories,41.74
+P02663,Fan Merchandise,84.67
+P02664,Jerseys,106.8
+P02665,Footwear,103.67
+P02666,Training Gear,154.41
+P02667,Accessories,75.51
+P02668,Fan Merchandise,80.14
+P02669,Jerseys,145.36
+P02670,Accessories,34.65
+P02671,Jerseys,111.66
+P02672,Jerseys,179.54
+P02673,Footwear,128.1
+P02674,Fan Merchandise,63.76
+P02675,Jerseys,79.15
+P02676,Jerseys,112.97
+P02677,Jerseys,176.72
+P02678,Jerseys,191.45
+P02679,Accessories,42.43
+P02680,Fan Merchandise,24.6
+P02681,Fan Merchandise,13.71
+P02682,Jerseys,73.47
+P02683,Accessories,93.57
+P02684,Footwear,122.02
+P02685,Accessories,39.16
+P02686,Training Gear,128.14
+P02687,Accessories,89.34
+P02688,Training Gear,69.43
+P02689,Footwear,202.25
+P02690,Fan Merchandise,45.81
+P02691,Fan Merchandise,31.07
+P02692,Fan Merchandise,77.68
+P02693,Fan Merchandise,23.17
+P02694,Footwear,219.27
+P02695,Fan Merchandise,56.77
+P02696,Accessories,101.53
+P02697,Accessories,27.88
+P02698,Footwear,110.04
+P02699,Footwear,197.19
+P02700,Training Gear,136.87
+P02701,Jerseys,181.42
+P02702,Jerseys,95.67
+P02703,Footwear,151.17
+P02704,Accessories,48.96
+P02705,Fan Merchandise,35.42
+P02706,Training Gear,91.86
+P02707,Accessories,81.51
+P02708,Jerseys,130.19
+P02709,Footwear,81.49
+P02710,Jerseys,172.09
+P02711,Accessories,107.78
+P02712,Training Gear,69.53
+P02713,Footwear,192.87
+P02714,Jerseys,180.26
+P02715,Fan Merchandise,31.02
+P02716,Accessories,80.53
+P02717,Fan Merchandise,80.5
+P02718,Accessories,83.99
+P02719,Jerseys,59.35
+P02720,Accessories,70.45
+P02721,Jerseys,167.88
+P02722,Fan Merchandise,57.12
+P02723,Footwear,45.17
+P02724,Accessories,22.02
+P02725,Training Gear,131.83
+P02726,Accessories,58.81
+P02727,Jerseys,193.91
+P02728,Training Gear,76.93
+P02729,Jerseys,174.15
+P02730,Fan Merchandise,14.59
+P02731,Footwear,191.38
+P02732,Training Gear,139.99
+P02733,Footwear,105.17
+P02734,Jerseys,99.87
+P02735,Training Gear,147.21
+P02736,Accessories,87.77
+P02737,Jerseys,141.7
+P02738,Footwear,118.54
+P02739,Footwear,204.18
+P02740,Jerseys,163.35
+P02741,Accessories,51.68
+P02742,Accessories,59.67
+P02743,Training Gear,31.98
+P02744,Fan Merchandise,71.18
+P02745,Training Gear,137.52
+P02746,Accessories,45.56
+P02747,Accessories,40.97
+P02748,Accessories,35.22
+P02749,Jerseys,80.15
+P02750,Footwear,210.6
+P02751,Training Gear,125.78
+P02752,Fan Merchandise,43.64
+P02753,Jerseys,70.97
+P02754,Accessories,23.94
+P02755,Jerseys,157.92
+P02756,Accessories,30.31
+P02757,Jerseys,105.44
+P02758,Training Gear,153.9
+P02759,Accessories,68.12
+P02760,Jerseys,172.21
+P02761,Fan Merchandise,19.58
+P02762,Training Gear,64.91
+P02763,Fan Merchandise,77.38
+P02764,Accessories,91.05
+P02765,Jerseys,159.9
+P02766,Fan Merchandise,54.88
+P02767,Fan Merchandise,31.63
+P02768,Training Gear,101.14
+P02769,Accessories,15.08
+P02770,Fan Merchandise,26.77
+P02771,Jerseys,130.15
+P02772,Footwear,40.36
+P02773,Jerseys,88.67
+P02774,Footwear,67.4
+P02775,Accessories,44.55
+P02776,Jerseys,179.46
+P02777,Fan Merchandise,81.16
+P02778,Accessories,26.51
+P02779,Footwear,81.59
+P02780,Fan Merchandise,73.82
+P02781,Footwear,71.08
+P02782,Footwear,173.44
+P02783,Training Gear,30.14
+P02784,Footwear,156.69
+P02785,Jerseys,93.53
+P02786,Accessories,84.96
+P02787,Jerseys,130.31
+P02788,Jerseys,80.94
+P02789,Fan Merchandise,41.36
+P02790,Accessories,61.44
+P02791,Accessories,109.6
+P02792,Training Gear,86.21
+P02793,Footwear,67.22
+P02794,Accessories,65.52
+P02795,Jerseys,86.93
+P02796,Footwear,198.32
+P02797,Training Gear,136.44
+P02798,Fan Merchandise,21.39
+P02799,Footwear,145.91
+P02800,Jerseys,155.99
+P02801,Jerseys,91.49
+P02802,Fan Merchandise,57.73
+P02803,Jerseys,122.09
+P02804,Training Gear,86.46
+P02805,Footwear,139.23
+P02806,Jerseys,137.67
+P02807,Training Gear,118.79
+P02808,Training Gear,82.24
+P02809,Jerseys,159.78
+P02810,Accessories,58.59
+P02811,Training Gear,112.12
+P02812,Fan Merchandise,31.21
+P02813,Accessories,64.17
+P02814,Fan Merchandise,46.16
+P02815,Training Gear,60.91
+P02816,Accessories,16.23
+P02817,Footwear,131.83
+P02818,Accessories,10.98
+P02819,Fan Merchandise,40.46
+P02820,Accessories,47.07
+P02821,Jerseys,146.89
+P02822,Fan Merchandise,84.08
+P02823,Accessories,95.8
+P02824,Training Gear,156.46
+P02825,Jerseys,192.89
+P02826,Fan Merchandise,17.41
+P02827,Accessories,38.19
+P02828,Footwear,93.46
+P02829,Accessories,17.1
+P02830,Footwear,192.4
+P02831,Fan Merchandise,77.36
+P02832,Fan Merchandise,56.16
+P02833,Footwear,200.38
+P02834,Accessories,81.44
+P02835,Training Gear,80.56
+P02836,Jerseys,76.73
+P02837,Training Gear,154.11
+P02838,Footwear,164.61
+P02839,Footwear,103.75
+P02840,Accessories,22.86
+P02841,Jerseys,170.85
+P02842,Training Gear,131.89
+P02843,Fan Merchandise,51.64
+P02844,Fan Merchandise,85.0
+P02845,Fan Merchandise,40.21
+P02846,Fan Merchandise,80.77
+P02847,Fan Merchandise,58.01
+P02848,Fan Merchandise,65.76
+P02849,Training Gear,148.22
+P02850,Accessories,93.12
+P02851,Jerseys,96.86
+P02852,Accessories,96.72
+P02853,Accessories,63.97
+P02854,Jerseys,61.5
+P02855,Jerseys,152.7
+P02856,Jerseys,127.46
+P02857,Footwear,136.59
+P02858,Training Gear,76.44
+P02859,Fan Merchandise,16.68
+P02860,Jerseys,81.13
+P02861,Training Gear,125.42
+P02862,Training Gear,51.26
+P02863,Training Gear,107.14
+P02864,Footwear,137.53
+P02865,Jerseys,87.1
+P02866,Accessories,38.06
+P02867,Fan Merchandise,40.0
+P02868,Accessories,98.02
+P02869,Fan Merchandise,80.72
+P02870,Fan Merchandise,40.23
+P02871,Training Gear,24.55
+P02872,Accessories,70.09
+P02873,Training Gear,77.3
+P02874,Fan Merchandise,47.94
+P02875,Jerseys,119.08
+P02876,Fan Merchandise,59.78
+P02877,Footwear,94.8
+P02878,Footwear,200.67
+P02879,Training Gear,77.82
+P02880,Jerseys,104.54
+P02881,Accessories,102.29
+P02882,Training Gear,68.86
+P02883,Jerseys,67.05
+P02884,Jerseys,77.52
+P02885,Footwear,168.57
+P02886,Accessories,66.23
+P02887,Footwear,136.23
+P02888,Footwear,54.76
+P02889,Fan Merchandise,23.98
+P02890,Jerseys,112.45
+P02891,Accessories,54.8
+P02892,Footwear,107.78
+P02893,Accessories,60.27
+P02894,Accessories,83.35
+P02895,Accessories,73.57
+P02896,Jerseys,143.64
+P02897,Jerseys,135.88
+P02898,Footwear,76.17
+P02899,Footwear,148.83
+P02900,Accessories,25.85
+P02901,Footwear,168.32
+P02902,Jerseys,120.58
+P02903,Footwear,144.66
+P02904,Fan Merchandise,74.98
+P02905,Accessories,47.31
+P02906,Accessories,19.98
+P02907,Accessories,99.14
+P02908,Jerseys,107.92
+P02909,Jerseys,113.95
+P02910,Jerseys,97.92
+P02911,Accessories,52.02
+P02912,Jerseys,130.54
+P02913,Footwear,191.8
+P02914,Training Gear,120.26
+P02915,Fan Merchandise,49.47
+P02916,Footwear,177.49
+P02917,Training Gear,138.39
+P02918,Footwear,50.47
+P02919,Footwear,146.6
+P02920,Footwear,47.79
+P02921,Training Gear,61.75
+P02922,Jerseys,165.55
+P02923,Fan Merchandise,69.76
+P02924,Fan Merchandise,76.52
+P02925,Accessories,59.82
+P02926,Jerseys,67.2
+P02927,Footwear,62.82
+P02928,Fan Merchandise,29.83
+P02929,Jerseys,108.97
+P02930,Accessories,62.66
+P02931,Footwear,156.27
+P02932,Fan Merchandise,23.86
+P02933,Fan Merchandise,25.79
+P02934,Accessories,27.3
+P02935,Accessories,85.49
+P02936,Jerseys,98.8
+P02937,Jerseys,79.17
+P02938,Footwear,117.65
+P02939,Fan Merchandise,30.07
+P02940,Footwear,106.47
+P02941,Footwear,188.32
+P02942,Footwear,100.1
+P02943,Footwear,71.47
+P02944,Accessories,33.25
+P02945,Fan Merchandise,14.51
+P02946,Jerseys,185.66
+P02947,Jerseys,156.06
+P02948,Accessories,56.34
+P02949,Accessories,66.09
+P02950,Training Gear,54.08
+P02951,Fan Merchandise,41.47
+P02952,Training Gear,63.42
+P02953,Training Gear,135.09
+P02954,Training Gear,123.57
+P02955,Accessories,38.39
+P02956,Accessories,86.22
+P02957,Fan Merchandise,18.86
+P02958,Footwear,76.46
+P02959,Jerseys,70.42
+P02960,Training Gear,51.83
+P02961,Accessories,32.62
+P02962,Footwear,202.1
+P02963,Jerseys,102.47
+P02964,Footwear,103.94
+P02965,Jerseys,69.46
+P02966,Accessories,16.6
+P02967,Accessories,31.94
+P02968,Accessories,23.45
+P02969,Footwear,102.03
+P02970,Accessories,28.6
+P02971,Footwear,72.07
+P02972,Jerseys,148.89
+P02973,Fan Merchandise,80.77
+P02974,Footwear,42.25
+P02975,Training Gear,118.19
+P02976,Accessories,75.92
+P02977,Footwear,145.31
+P02978,Jerseys,155.38
+P02979,Footwear,131.57
+P02980,Footwear,206.85
+P02981,Training Gear,40.47
+P02982,Fan Merchandise,46.57
+P02983,Fan Merchandise,59.67
+P02984,Accessories,100.87
+P02985,Training Gear,87.22
+P02986,Training Gear,156.73
+P02987,Footwear,158.17
+P02988,Footwear,165.86
+P02989,Jerseys,173.64
+P02990,Jerseys,161.42
+P02991,Accessories,62.26
+P02992,Jerseys,167.03
+P02993,Fan Merchandise,14.61
+P02994,Footwear,207.9
+P02995,Fan Merchandise,72.09
+P02996,Jerseys,147.46
+P02997,Footwear,52.38
+P02998,Training Gear,59.88
+P02999,Accessories,35.36
+P03000,Fan Merchandise,30.76
+P03001,Training Gear,113.44
+P03002,Footwear,197.7
+P03003,Jerseys,153.84
+P03004,Footwear,109.98
+P03005,Footwear,214.46
+P03006,Training Gear,140.49
+P03007,Fan Merchandise,62.04
+P03008,Jerseys,112.63
+P03009,Fan Merchandise,61.92
+P03010,Training Gear,75.94
+P03011,Jerseys,77.5
+P03012,Footwear,151.39
+P03013,Training Gear,117.13
+P03014,Fan Merchandise,37.5
+P03015,Footwear,207.28
+P03016,Accessories,95.43
+P03017,Footwear,144.91
+P03018,Accessories,16.02
+P03019,Fan Merchandise,13.26
+P03020,Jerseys,147.78
+P03021,Fan Merchandise,71.41
+P03022,Accessories,60.04
+P03023,Fan Merchandise,13.71
+P03024,Accessories,24.48
+P03025,Accessories,31.12
+P03026,Jerseys,146.02
+P03027,Footwear,127.49
+P03028,Fan Merchandise,19.46
+P03029,Fan Merchandise,48.62
+P03030,Jerseys,181.08
+P03031,Training Gear,80.35
+P03032,Fan Merchandise,22.93
+P03033,Footwear,144.04
+P03034,Footwear,207.29
+P03035,Accessories,21.59
+P03036,Footwear,68.15
+P03037,Training Gear,98.49
+P03038,Accessories,44.0
+P03039,Footwear,201.2
+P03040,Accessories,81.28
+P03041,Jerseys,76.33
+P03042,Accessories,97.07
+P03043,Jerseys,148.13
+P03044,Training Gear,88.1
+P03045,Fan Merchandise,30.73
+P03046,Training Gear,110.26
+P03047,Footwear,201.73
+P03048,Jerseys,60.58
+P03049,Fan Merchandise,39.39
+P03050,Jerseys,190.67
+P03051,Jerseys,110.52
+P03052,Training Gear,23.09
+P03053,Fan Merchandise,19.41
+P03054,Training Gear,116.09
+P03055,Jerseys,156.52
+P03056,Accessories,21.5
+P03057,Accessories,31.92
+P03058,Accessories,66.39
+P03059,Footwear,163.58
+P03060,Training Gear,40.26
+P03061,Jerseys,121.18
+P03062,Accessories,66.2
+P03063,Training Gear,25.06
+P03064,Fan Merchandise,28.33
+P03065,Footwear,205.4
+P03066,Accessories,98.0
+P03067,Accessories,42.25
+P03068,Jerseys,180.86
+P03069,Footwear,153.86
+P03070,Accessories,108.16
+P03071,Fan Merchandise,82.53
+P03072,Training Gear,105.61
+P03073,Jerseys,122.84
+P03074,Jerseys,75.63
+P03075,Footwear,135.46
+P03076,Training Gear,74.56
+P03077,Training Gear,109.68
+P03078,Training Gear,30.71
+P03079,Accessories,93.49
+P03080,Footwear,214.08
+P03081,Accessories,30.94
+P03082,Jerseys,146.75
+P03083,Jerseys,171.28
+P03084,Footwear,139.79
+P03085,Footwear,208.38
+P03086,Jerseys,129.22
+P03087,Training Gear,56.42
+P03088,Fan Merchandise,46.43
+P03089,Fan Merchandise,47.61
+P03090,Jerseys,91.79
+P03091,Fan Merchandise,69.45
+P03092,Jerseys,144.57
+P03093,Footwear,106.67
+P03094,Jerseys,116.14
+P03095,Footwear,106.91
+P03096,Training Gear,81.6
+P03097,Training Gear,92.99
+P03098,Jerseys,102.98
+P03099,Accessories,91.82
+P03100,Jerseys,189.61
+P03101,Footwear,134.1
+P03102,Fan Merchandise,63.93
+P03103,Fan Merchandise,79.93
+P03104,Fan Merchandise,26.01
+P03105,Footwear,74.15
+P03106,Accessories,17.26
+P03107,Footwear,119.58
+P03108,Footwear,99.61
+P03109,Footwear,140.9
+P03110,Footwear,121.19
+P03111,Jerseys,82.58
+P03112,Jerseys,111.72
+P03113,Fan Merchandise,14.11
+P03114,Jerseys,132.92
+P03115,Footwear,88.79
+P03116,Training Gear,33.95
+P03117,Training Gear,27.35
+P03118,Footwear,168.6
+P03119,Jerseys,90.86
+P03120,Footwear,158.58
+P03121,Training Gear,133.8
+P03122,Jerseys,127.5
+P03123,Footwear,63.95
+P03124,Fan Merchandise,56.86
+P03125,Fan Merchandise,17.23
+P03126,Jerseys,173.49
+P03127,Jerseys,165.42
+P03128,Jerseys,113.3
+P03129,Jerseys,94.02
+P03130,Jerseys,157.89
+P03131,Fan Merchandise,53.41
+P03132,Fan Merchandise,22.59
+P03133,Fan Merchandise,67.42
+P03134,Fan Merchandise,36.38
+P03135,Accessories,99.38
+P03136,Jerseys,175.27
+P03137,Fan Merchandise,32.13
+P03138,Footwear,85.95
+P03139,Footwear,111.62
+P03140,Footwear,184.81
+P03141,Fan Merchandise,21.54
+P03142,Accessories,41.61
+P03143,Accessories,75.91
+P03144,Accessories,13.35
+P03145,Training Gear,25.94
+P03146,Footwear,177.19
+P03147,Jerseys,130.74
+P03148,Fan Merchandise,52.7
+P03149,Fan Merchandise,30.17
+P03150,Jerseys,132.11
+P03151,Jerseys,134.03
+P03152,Training Gear,76.76
+P03153,Jerseys,194.84
+P03154,Training Gear,25.0
+P03155,Fan Merchandise,42.29
+P03156,Training Gear,139.76
+P03157,Footwear,77.13
+P03158,Accessories,103.5
+P03159,Jerseys,116.7
+P03160,Jerseys,77.71
+P03161,Jerseys,68.5
+P03162,Jerseys,102.43
+P03163,Jerseys,188.36
+P03164,Accessories,103.91
+P03165,Jerseys,136.67
+P03166,Jerseys,72.14
+P03167,Jerseys,121.21
+P03168,Fan Merchandise,42.5
+P03169,Footwear,81.59
+P03170,Fan Merchandise,17.55
+P03171,Jerseys,110.33
+P03172,Accessories,47.19
+P03173,Fan Merchandise,63.39
+P03174,Accessories,49.42
+P03175,Fan Merchandise,12.96
+P03176,Training Gear,20.84
+P03177,Footwear,163.75
+P03178,Jerseys,150.81
+P03179,Training Gear,40.77
+P03180,Training Gear,141.0
+P03181,Accessories,76.26
+P03182,Jerseys,77.34
+P03183,Jerseys,96.7
+P03184,Training Gear,156.26
+P03185,Fan Merchandise,41.77
+P03186,Jerseys,89.33
+P03187,Footwear,134.34
+P03188,Fan Merchandise,27.01
+P03189,Accessories,89.17
+P03190,Training Gear,130.79
+P03191,Jerseys,171.12
+P03192,Jerseys,144.5
+P03193,Jerseys,155.64
+P03194,Accessories,42.14
+P03195,Jerseys,182.44
+P03196,Footwear,65.95
+P03197,Jerseys,91.9
+P03198,Footwear,218.68
+P03199,Fan Merchandise,82.11
+P03200,Jerseys,128.6
+P03201,Accessories,59.91
+P03202,Fan Merchandise,20.53
+P03203,Footwear,158.74
+P03204,Accessories,13.1
+P03205,Training Gear,62.64
+P03206,Accessories,51.84
+P03207,Accessories,99.4
+P03208,Training Gear,155.52
+P03209,Training Gear,156.31
+P03210,Training Gear,131.43
+P03211,Jerseys,97.05
+P03212,Accessories,14.54
+P03213,Accessories,52.56
+P03214,Jerseys,98.12
+P03215,Jerseys,150.0
+P03216,Training Gear,70.69
+P03217,Jerseys,184.16
+P03218,Training Gear,71.11
+P03219,Training Gear,71.68
+P03220,Jerseys,165.07
+P03221,Footwear,146.2
+P03222,Training Gear,54.25
+P03223,Footwear,161.8
+P03224,Fan Merchandise,53.1
+P03225,Footwear,58.73
+P03226,Jerseys,122.75
+P03227,Jerseys,188.21
+P03228,Jerseys,85.71
+P03229,Training Gear,76.88
+P03230,Footwear,89.67
+P03231,Footwear,136.65
+P03232,Fan Merchandise,83.18
+P03233,Training Gear,62.0
+P03234,Jerseys,175.76
+P03235,Fan Merchandise,73.2
+P03236,Footwear,86.69
+P03237,Training Gear,127.71
+P03238,Fan Merchandise,84.13
+P03239,Training Gear,153.47
+P03240,Accessories,70.57
+P03241,Training Gear,39.55
+P03242,Jerseys,72.3
+P03243,Fan Merchandise,31.48
+P03244,Fan Merchandise,55.9
+P03245,Jerseys,111.0
+P03246,Training Gear,117.26
+P03247,Fan Merchandise,69.51
+P03248,Training Gear,43.62
+P03249,Jerseys,186.27
+P03250,Training Gear,26.6
+P03251,Jerseys,93.41
+P03252,Training Gear,133.7
+P03253,Footwear,73.07
+P03254,Accessories,32.01
+P03255,Footwear,215.62
+P03256,Fan Merchandise,78.6
+P03257,Jerseys,172.85
+P03258,Training Gear,42.68
+P03259,Training Gear,54.23
+P03260,Jerseys,89.1
+P03261,Fan Merchandise,25.81
+P03262,Fan Merchandise,82.84
+P03263,Jerseys,79.07
+P03264,Jerseys,163.27
+P03265,Footwear,49.18
+P03266,Footwear,137.89
+P03267,Accessories,17.08
+P03268,Accessories,16.18
+P03269,Accessories,33.02
+P03270,Training Gear,149.44
+P03271,Footwear,154.99
+P03272,Training Gear,110.5
+P03273,Fan Merchandise,33.73
+P03274,Fan Merchandise,64.82
+P03275,Accessories,78.16
+P03276,Footwear,123.1
+P03277,Training Gear,114.93
+P03278,Fan Merchandise,75.3
+P03279,Training Gear,154.37
+P03280,Jerseys,199.51
+P03281,Accessories,58.83
+P03282,Jerseys,59.75
+P03283,Accessories,32.92
+P03284,Fan Merchandise,26.37
+P03285,Footwear,94.1
+P03286,Footwear,104.89
+P03287,Footwear,160.36
+P03288,Footwear,134.62
+P03289,Jerseys,149.21
+P03290,Footwear,214.93
+P03291,Jerseys,62.12
+P03292,Fan Merchandise,13.05
+P03293,Fan Merchandise,60.58
+P03294,Jerseys,134.21
+P03295,Footwear,126.89
+P03296,Fan Merchandise,74.29
+P03297,Jerseys,78.04
+P03298,Jerseys,138.17
+P03299,Accessories,103.19
+P03300,Training Gear,81.31
+P03301,Jerseys,139.09
+P03302,Training Gear,27.94
+P03303,Jerseys,105.63
+P03304,Footwear,47.45
+P03305,Footwear,143.03
+P03306,Fan Merchandise,55.1
+P03307,Accessories,105.08
+P03308,Accessories,73.84
+P03309,Training Gear,18.42
+P03310,Accessories,93.32
+P03311,Footwear,99.34
+P03312,Fan Merchandise,64.14
+P03313,Footwear,87.53
+P03314,Accessories,86.02
+P03315,Training Gear,149.7
+P03316,Accessories,17.93
+P03317,Jerseys,133.93
+P03318,Accessories,64.04
+P03319,Footwear,91.56
+P03320,Jerseys,104.54
+P03321,Accessories,77.62
+P03322,Jerseys,97.43
+P03323,Footwear,45.51
+P03324,Accessories,86.92
+P03325,Jerseys,145.65
+P03326,Jerseys,91.32
+P03327,Training Gear,154.54
+P03328,Footwear,201.72
+P03329,Footwear,213.59
+P03330,Training Gear,90.74
+P03331,Footwear,82.33
+P03332,Training Gear,42.68
+P03333,Fan Merchandise,81.24
+P03334,Accessories,99.08
+P03335,Jerseys,162.44
+P03336,Jerseys,129.02
+P03337,Training Gear,72.59
+P03338,Footwear,166.62
+P03339,Fan Merchandise,12.7
+P03340,Training Gear,92.45
+P03341,Fan Merchandise,61.54
+P03342,Footwear,175.68
+P03343,Fan Merchandise,44.93
+P03344,Fan Merchandise,66.4
+P03345,Footwear,57.25
+P03346,Training Gear,51.12
+P03347,Footwear,66.03
+P03348,Training Gear,66.26
+P03349,Footwear,101.95
+P03350,Jerseys,109.22
+P03351,Fan Merchandise,46.01
+P03352,Footwear,118.54
+P03353,Footwear,128.28
+P03354,Footwear,175.47
+P03355,Training Gear,38.17
+P03356,Footwear,103.13
+P03357,Accessories,10.01
+P03358,Accessories,12.82
+P03359,Accessories,70.64
+P03360,Jerseys,182.02
+P03361,Jerseys,99.36
+P03362,Training Gear,75.07
+P03363,Fan Merchandise,27.32
+P03364,Training Gear,38.28
+P03365,Fan Merchandise,76.54
+P03366,Training Gear,99.24
+P03367,Training Gear,118.09
+P03368,Accessories,98.19
+P03369,Training Gear,101.55
+P03370,Footwear,72.45
+P03371,Footwear,168.4
+P03372,Accessories,84.78
+P03373,Accessories,51.39
+P03374,Jerseys,144.44
+P03375,Accessories,58.45
+P03376,Accessories,43.3
+P03377,Training Gear,113.48
+P03378,Jerseys,90.88
+P03379,Jerseys,102.48
+P03380,Fan Merchandise,41.62
+P03381,Fan Merchandise,56.87
+P03382,Training Gear,139.01
+P03383,Jerseys,144.16
+P03384,Footwear,170.69
+P03385,Training Gear,59.56
+P03386,Footwear,145.73
+P03387,Fan Merchandise,19.58
+P03388,Jerseys,122.17
+P03389,Jerseys,155.03
+P03390,Training Gear,43.52
+P03391,Jerseys,185.8
+P03392,Footwear,115.09
+P03393,Fan Merchandise,60.99
+P03394,Footwear,124.58
+P03395,Jerseys,161.18
+P03396,Accessories,68.43
+P03397,Jerseys,72.77
+P03398,Accessories,102.47
+P03399,Jerseys,150.71
+P03400,Jerseys,123.45
+P03401,Jerseys,153.11
+P03402,Training Gear,55.05
+P03403,Footwear,178.41
+P03404,Training Gear,76.39
+P03405,Jerseys,171.73
+P03406,Jerseys,94.74
+P03407,Fan Merchandise,69.69
+P03408,Jerseys,186.47
+P03409,Accessories,108.08
+P03410,Training Gear,128.29
+P03411,Training Gear,117.97
+P03412,Accessories,61.99
+P03413,Fan Merchandise,19.72
+P03414,Jerseys,136.18
+P03415,Fan Merchandise,53.12
+P03416,Footwear,51.65
+P03417,Footwear,164.31
+P03418,Accessories,24.89
+P03419,Footwear,147.39
+P03420,Fan Merchandise,46.5
+P03421,Footwear,197.51
+P03422,Footwear,81.8
+P03423,Fan Merchandise,24.5
+P03424,Accessories,65.12
+P03425,Training Gear,83.35
+P03426,Jerseys,78.39
+P03427,Footwear,150.47
+P03428,Footwear,203.05
+P03429,Accessories,84.03
+P03430,Footwear,77.72
+P03431,Fan Merchandise,29.4
+P03432,Footwear,140.36
+P03433,Training Gear,114.21
+P03434,Accessories,107.9
+P03435,Fan Merchandise,19.65
+P03436,Footwear,138.34
+P03437,Footwear,217.73
+P03438,Jerseys,71.08
+P03439,Accessories,107.26
+P03440,Accessories,56.22
+P03441,Jerseys,159.02
+P03442,Jerseys,116.66
+P03443,Training Gear,137.43
+P03444,Jerseys,186.74
+P03445,Footwear,70.0
+P03446,Jerseys,163.35
+P03447,Jerseys,58.01
+P03448,Jerseys,95.14
+P03449,Accessories,65.23
+P03450,Accessories,70.32
+P03451,Fan Merchandise,38.66
+P03452,Footwear,88.68
+P03453,Footwear,70.9
+P03454,Fan Merchandise,29.5
+P03455,Footwear,63.44
+P03456,Jerseys,92.87
+P03457,Accessories,92.13
+P03458,Fan Merchandise,32.99
+P03459,Footwear,203.38
+P03460,Training Gear,52.82
+P03461,Jerseys,126.33
+P03462,Training Gear,41.79
+P03463,Jerseys,57.48
+P03464,Fan Merchandise,57.66
+P03465,Jerseys,103.98
+P03466,Training Gear,67.0
+P03467,Accessories,50.78
+P03468,Training Gear,128.44
+P03469,Fan Merchandise,41.18
+P03470,Accessories,18.64
+P03471,Jerseys,95.42
+P03472,Jerseys,138.54
+P03473,Training Gear,159.08
+P03474,Training Gear,38.33
+P03475,Footwear,98.22
+P03476,Footwear,127.41
+P03477,Footwear,210.04
+P03478,Footwear,59.52
+P03479,Jerseys,170.1
+P03480,Training Gear,120.66
+P03481,Footwear,95.16
+P03482,Training Gear,127.87
+P03483,Training Gear,99.63
+P03484,Jerseys,79.85
+P03485,Accessories,38.57
+P03486,Accessories,42.83
+P03487,Footwear,98.15
+P03488,Fan Merchandise,66.48
+P03489,Accessories,76.03
+P03490,Footwear,187.57
+P03491,Training Gear,90.53
+P03492,Jerseys,105.83
+P03493,Footwear,52.2
+P03494,Training Gear,130.8
+P03495,Footwear,53.46
+P03496,Footwear,94.26
+P03497,Jerseys,151.99
+P03498,Jerseys,165.8
+P03499,Jerseys,64.93
+P03500,Fan Merchandise,56.36
+P03501,Jerseys,74.89
+P03502,Accessories,85.72
+P03503,Footwear,171.37
+P03504,Jerseys,163.47
+P03505,Training Gear,27.05
+P03506,Fan Merchandise,52.84
+P03507,Fan Merchandise,29.58
+P03508,Jerseys,126.89
+P03509,Accessories,108.94
+P03510,Training Gear,30.85
+P03511,Training Gear,102.36
+P03512,Fan Merchandise,24.04
+P03513,Accessories,61.01
+P03514,Footwear,133.76
+P03515,Footwear,122.12
+P03516,Footwear,155.13
+P03517,Jerseys,196.26
+P03518,Footwear,184.94
+P03519,Jerseys,193.99
+P03520,Accessories,28.95
+P03521,Accessories,109.32
+P03522,Accessories,40.52
+P03523,Jerseys,59.95
+P03524,Accessories,53.62
+P03525,Training Gear,52.96
+P03526,Accessories,86.21
+P03527,Training Gear,30.35
+P03528,Jerseys,134.46
+P03529,Accessories,38.94
+P03530,Accessories,30.67
+P03531,Fan Merchandise,75.92
+P03532,Training Gear,91.2
+P03533,Accessories,42.54
+P03534,Fan Merchandise,66.47
+P03535,Training Gear,139.15
+P03536,Fan Merchandise,44.27
+P03537,Footwear,72.78
+P03538,Footwear,218.98
+P03539,Training Gear,68.97
+P03540,Fan Merchandise,27.0
+P03541,Training Gear,32.67
+P03542,Jerseys,72.96
+P03543,Fan Merchandise,80.84
+P03544,Fan Merchandise,81.11
+P03545,Training Gear,90.13
+P03546,Fan Merchandise,62.53
+P03547,Footwear,189.88
+P03548,Fan Merchandise,52.69
+P03549,Accessories,76.7
+P03550,Jerseys,195.21
+P03551,Footwear,71.06
+P03552,Training Gear,37.71
+P03553,Footwear,175.55
+P03554,Jerseys,156.98
+P03555,Accessories,28.6
+P03556,Training Gear,60.94
+P03557,Fan Merchandise,62.02
+P03558,Jerseys,126.68
+P03559,Footwear,200.83
+P03560,Jerseys,176.39
+P03561,Jerseys,125.63
+P03562,Fan Merchandise,60.68
+P03563,Jerseys,148.3
+P03564,Footwear,56.57
+P03565,Training Gear,78.43
+P03566,Footwear,119.18
+P03567,Footwear,201.53
+P03568,Accessories,98.53
+P03569,Footwear,50.37
+P03570,Footwear,192.13
+P03571,Training Gear,104.86
+P03572,Training Gear,20.3
+P03573,Fan Merchandise,39.86
+P03574,Fan Merchandise,76.83
+P03575,Footwear,104.48
+P03576,Training Gear,114.06
+P03577,Accessories,66.57
+P03578,Footwear,146.17
+P03579,Jerseys,124.72
+P03580,Accessories,58.23
+P03581,Footwear,202.48
+P03582,Jerseys,115.0
+P03583,Jerseys,82.75
+P03584,Accessories,51.97
+P03585,Footwear,171.92
+P03586,Accessories,57.52
+P03587,Footwear,171.78
+P03588,Accessories,33.98
+P03589,Jerseys,139.5
+P03590,Jerseys,180.33
+P03591,Accessories,62.93
+P03592,Fan Merchandise,58.49
+P03593,Footwear,162.19
+P03594,Accessories,83.97
+P03595,Fan Merchandise,37.57
+P03596,Footwear,152.83
+P03597,Accessories,51.62
+P03598,Accessories,49.1
+P03599,Training Gear,85.48
+P03600,Jerseys,114.13
+P03601,Training Gear,21.67
+P03602,Fan Merchandise,66.17
+P03603,Accessories,68.43
+P03604,Jerseys,74.95
+P03605,Accessories,36.13
+P03606,Footwear,149.99
+P03607,Jerseys,130.11
+P03608,Jerseys,159.9
+P03609,Fan Merchandise,47.71
+P03610,Fan Merchandise,73.66
+P03611,Training Gear,29.0
+P03612,Jerseys,143.91
+P03613,Training Gear,70.76
+P03614,Training Gear,61.57
+P03615,Training Gear,152.0
+P03616,Fan Merchandise,75.06
+P03617,Jerseys,81.64
+P03618,Training Gear,26.16
+P03619,Accessories,96.73
+P03620,Fan Merchandise,24.36
+P03621,Footwear,207.09
+P03622,Footwear,89.92
+P03623,Jerseys,114.69
+P03624,Accessories,14.5
+P03625,Jerseys,132.94
+P03626,Training Gear,44.8
+P03627,Footwear,117.59
+P03628,Footwear,205.49
+P03629,Jerseys,91.62
+P03630,Footwear,154.29
+P03631,Jerseys,84.29
+P03632,Fan Merchandise,56.52
+P03633,Training Gear,59.06
+P03634,Footwear,162.68
+P03635,Jerseys,166.74
+P03636,Fan Merchandise,76.29
+P03637,Jerseys,188.2
+P03638,Fan Merchandise,29.62
+P03639,Accessories,22.9
+P03640,Training Gear,24.89
+P03641,Footwear,169.66
+P03642,Training Gear,44.54
+P03643,Training Gear,131.62
+P03644,Footwear,213.67
+P03645,Accessories,24.8
+P03646,Jerseys,96.08
+P03647,Jerseys,130.99
+P03648,Training Gear,79.14
+P03649,Footwear,116.67
+P03650,Jerseys,86.48
+P03651,Footwear,200.06
+P03652,Accessories,78.16
+P03653,Training Gear,39.85
+P03654,Accessories,10.44
+P03655,Fan Merchandise,67.68
+P03656,Footwear,42.85
+P03657,Fan Merchandise,76.27
+P03658,Jerseys,131.77
+P03659,Accessories,103.01
+P03660,Accessories,87.19
+P03661,Training Gear,145.0
+P03662,Fan Merchandise,66.3
+P03663,Fan Merchandise,54.09
+P03664,Jerseys,80.09
+P03665,Footwear,170.98
+P03666,Accessories,69.23
+P03667,Fan Merchandise,45.19
+P03668,Fan Merchandise,52.78
+P03669,Accessories,33.23
+P03670,Jerseys,113.64
+P03671,Jerseys,73.01
+P03672,Footwear,113.76
+P03673,Fan Merchandise,46.09
+P03674,Training Gear,139.8
+P03675,Accessories,62.72
+P03676,Fan Merchandise,78.35
+P03677,Fan Merchandise,82.66
+P03678,Footwear,48.82
+P03679,Footwear,147.49
+P03680,Footwear,93.86
+P03681,Training Gear,138.89
+P03682,Footwear,128.93
+P03683,Accessories,17.81
+P03684,Jerseys,86.18
+P03685,Fan Merchandise,61.19
+P03686,Jerseys,66.54
+P03687,Training Gear,71.83
+P03688,Jerseys,181.39
+P03689,Training Gear,22.15
+P03690,Accessories,79.62
+P03691,Jerseys,152.95
+P03692,Fan Merchandise,35.41
+P03693,Accessories,21.27
+P03694,Footwear,58.43
+P03695,Fan Merchandise,82.75
+P03696,Accessories,77.69
+P03697,Accessories,47.6
+P03698,Fan Merchandise,72.85
+P03699,Fan Merchandise,19.54
+P03700,Jerseys,73.4
+P03701,Jerseys,83.65
+P03702,Jerseys,165.72
+P03703,Accessories,50.89
+P03704,Jerseys,148.17
+P03705,Footwear,81.84
+P03706,Fan Merchandise,68.74
+P03707,Footwear,184.3
+P03708,Footwear,114.39
+P03709,Training Gear,47.72
+P03710,Fan Merchandise,57.99
+P03711,Fan Merchandise,30.7
+P03712,Jerseys,76.5
+P03713,Accessories,71.58
+P03714,Training Gear,90.83
+P03715,Jerseys,168.6
+P03716,Footwear,92.62
+P03717,Footwear,80.55
+P03718,Training Gear,108.95
+P03719,Jerseys,156.65
+P03720,Accessories,51.34
+P03721,Accessories,54.24
+P03722,Training Gear,35.54
+P03723,Jerseys,123.07
+P03724,Accessories,106.13
+P03725,Training Gear,34.15
+P03726,Footwear,142.23
+P03727,Accessories,11.84
+P03728,Footwear,98.57
+P03729,Jerseys,165.37
+P03730,Footwear,142.09
+P03731,Jerseys,66.76
+P03732,Footwear,121.33
+P03733,Fan Merchandise,17.77
+P03734,Accessories,47.35
+P03735,Jerseys,166.5
+P03736,Fan Merchandise,30.85
+P03737,Training Gear,82.38
+P03738,Jerseys,127.55
+P03739,Footwear,193.59
+P03740,Footwear,61.87
+P03741,Training Gear,96.16
+P03742,Training Gear,22.37
+P03743,Accessories,19.33
+P03744,Footwear,79.73
+P03745,Accessories,81.97
+P03746,Fan Merchandise,15.0
+P03747,Jerseys,192.04
+P03748,Footwear,116.98
+P03749,Jerseys,176.6
+P03750,Fan Merchandise,28.2
+P03751,Training Gear,65.97
+P03752,Footwear,170.86
+P03753,Training Gear,71.85
+P03754,Accessories,60.75
+P03755,Fan Merchandise,71.08
+P03756,Training Gear,110.46
+P03757,Accessories,93.59
+P03758,Footwear,55.57
+P03759,Jerseys,143.17
+P03760,Fan Merchandise,55.89
+P03761,Accessories,70.71
+P03762,Jerseys,140.38
+P03763,Accessories,82.38
+P03764,Jerseys,177.39
+P03765,Jerseys,88.29
+P03766,Training Gear,32.85
+P03767,Jerseys,65.73
+P03768,Jerseys,77.97
+P03769,Jerseys,150.11
+P03770,Training Gear,77.14
+P03771,Footwear,102.91
+P03772,Footwear,203.79
+P03773,Jerseys,185.53
+P03774,Footwear,137.0
+P03775,Footwear,122.53
+P03776,Footwear,88.68
+P03777,Footwear,122.78
+P03778,Fan Merchandise,42.0
+P03779,Footwear,41.25
+P03780,Jerseys,164.99
+P03781,Fan Merchandise,44.02
+P03782,Footwear,80.11
+P03783,Footwear,159.93
+P03784,Training Gear,81.57
+P03785,Accessories,41.37
+P03786,Fan Merchandise,28.85
+P03787,Accessories,15.91
+P03788,Training Gear,89.43
+P03789,Footwear,107.58
+P03790,Footwear,47.26
+P03791,Fan Merchandise,71.31
+P03792,Footwear,185.49
+P03793,Accessories,59.0
+P03794,Footwear,191.0
+P03795,Jerseys,124.75
+P03796,Fan Merchandise,24.33
+P03797,Accessories,61.76
+P03798,Accessories,41.26
+P03799,Footwear,121.43
+P03800,Jerseys,195.75
+P03801,Fan Merchandise,37.95
+P03802,Footwear,78.86
+P03803,Accessories,22.86
+P03804,Accessories,98.39
+P03805,Jerseys,57.17
+P03806,Jerseys,186.58
+P03807,Fan Merchandise,16.51
+P03808,Jerseys,164.14
+P03809,Footwear,92.86
+P03810,Training Gear,53.49
+P03811,Footwear,72.39
+P03812,Fan Merchandise,21.82
+P03813,Footwear,51.92
+P03814,Jerseys,77.48
+P03815,Accessories,68.85
+P03816,Footwear,142.54
+P03817,Fan Merchandise,32.52
+P03818,Jerseys,153.58
+P03819,Accessories,86.96
+P03820,Fan Merchandise,83.55
+P03821,Accessories,53.98
+P03822,Accessories,47.46
+P03823,Jerseys,196.11
+P03824,Footwear,209.59
+P03825,Training Gear,149.63
+P03826,Accessories,70.88
+P03827,Accessories,71.77
+P03828,Accessories,102.8
+P03829,Jerseys,124.57
+P03830,Footwear,78.43
+P03831,Footwear,217.35
+P03832,Jerseys,177.1
+P03833,Jerseys,63.13
+P03834,Footwear,60.24
+P03835,Accessories,98.21
+P03836,Accessories,40.11
+P03837,Jerseys,155.98
+P03838,Fan Merchandise,20.6
+P03839,Accessories,27.05
+P03840,Footwear,174.53
+P03841,Fan Merchandise,83.49
+P03842,Accessories,60.22
+P03843,Accessories,14.29
+P03844,Training Gear,51.27
+P03845,Footwear,78.29
+P03846,Accessories,103.53
+P03847,Jerseys,115.78
+P03848,Footwear,210.58
+P03849,Jerseys,179.64
+P03850,Jerseys,120.37
+P03851,Footwear,44.47
+P03852,Accessories,107.3
+P03853,Jerseys,56.46
+P03854,Jerseys,179.14
+P03855,Footwear,114.38
+P03856,Jerseys,98.69
+P03857,Accessories,50.83
+P03858,Accessories,45.69
+P03859,Fan Merchandise,62.31
+P03860,Training Gear,99.33
+P03861,Footwear,86.24
+P03862,Jerseys,131.49
+P03863,Training Gear,75.5
+P03864,Accessories,102.06
+P03865,Training Gear,144.72
+P03866,Fan Merchandise,57.07
+P03867,Fan Merchandise,82.47
+P03868,Footwear,107.52
+P03869,Jerseys,67.76
+P03870,Accessories,14.77
+P03871,Accessories,93.34
+P03872,Fan Merchandise,39.99
+P03873,Training Gear,140.16
+P03874,Footwear,122.57
+P03875,Jerseys,56.62
+P03876,Training Gear,93.07
+P03877,Training Gear,102.43
+P03878,Fan Merchandise,44.96
+P03879,Accessories,93.8
+P03880,Training Gear,109.45
+P03881,Jerseys,107.89
+P03882,Footwear,169.42
+P03883,Footwear,97.53
+P03884,Jerseys,176.59
+P03885,Fan Merchandise,32.45
+P03886,Accessories,76.66
+P03887,Accessories,51.51
+P03888,Jerseys,69.67
+P03889,Fan Merchandise,57.97
+P03890,Footwear,108.95
+P03891,Accessories,73.43
+P03892,Footwear,137.18
+P03893,Accessories,14.16
+P03894,Jerseys,84.72
+P03895,Accessories,80.04
+P03896,Accessories,56.77
+P03897,Training Gear,84.24
+P03898,Training Gear,18.34
+P03899,Jerseys,98.91
+P03900,Footwear,160.5
+P03901,Footwear,199.66
+P03902,Footwear,143.32
+P03903,Jerseys,133.39
+P03904,Training Gear,84.78
+P03905,Training Gear,114.34
+P03906,Jerseys,170.73
+P03907,Fan Merchandise,28.11
+P03908,Training Gear,119.38
+P03909,Jerseys,90.36
+P03910,Training Gear,22.51
+P03911,Training Gear,28.6
+P03912,Training Gear,24.61
+P03913,Fan Merchandise,32.45
+P03914,Jerseys,73.44
+P03915,Jerseys,67.35
+P03916,Training Gear,38.96
+P03917,Jerseys,60.54
+P03918,Jerseys,104.81
+P03919,Jerseys,174.31
+P03920,Accessories,65.38
+P03921,Footwear,51.69
+P03922,Fan Merchandise,39.37
+P03923,Accessories,52.98
+P03924,Jerseys,80.0
+P03925,Jerseys,109.09
+P03926,Accessories,43.68
+P03927,Fan Merchandise,48.05
+P03928,Training Gear,117.02
+P03929,Training Gear,85.99
+P03930,Accessories,17.4
+P03931,Training Gear,25.84
+P03932,Accessories,98.8
+P03933,Accessories,79.48
+P03934,Fan Merchandise,59.97
+P03935,Jerseys,187.41
+P03936,Accessories,64.15
+P03937,Fan Merchandise,17.38
+P03938,Jerseys,158.59
+P03939,Fan Merchandise,23.85
+P03940,Jerseys,151.6
+P03941,Accessories,50.07
+P03942,Training Gear,22.01
+P03943,Footwear,50.0
+P03944,Jerseys,111.93
+P03945,Accessories,69.45
+P03946,Footwear,70.76
+P03947,Footwear,59.21
+P03948,Fan Merchandise,39.46
+P03949,Footwear,184.75
+P03950,Accessories,88.4
+P03951,Footwear,163.15
+P03952,Footwear,116.56
+P03953,Jerseys,119.08
+P03954,Training Gear,50.08
+P03955,Accessories,23.71
+P03956,Jerseys,57.3
+P03957,Jerseys,179.72
+P03958,Accessories,59.62
+P03959,Accessories,10.3
+P03960,Jerseys,131.73
+P03961,Footwear,86.5
+P03962,Accessories,52.74
+P03963,Fan Merchandise,61.09
+P03964,Fan Merchandise,71.11
+P03965,Accessories,80.05
+P03966,Fan Merchandise,77.43
+P03967,Accessories,33.47
+P03968,Accessories,76.14
+P03969,Accessories,98.98
+P03970,Jerseys,99.73
+P03971,Training Gear,131.52
+P03972,Jerseys,191.33
+P03973,Accessories,74.39
+P03974,Accessories,26.43
+P03975,Training Gear,55.04
+P03976,Footwear,162.4
+P03977,Training Gear,141.0
+P03978,Footwear,44.28
+P03979,Footwear,98.74
+P03980,Training Gear,51.17
+P03981,Jerseys,116.2
+P03982,Accessories,86.85
+P03983,Accessories,60.28
+P03984,Training Gear,91.6
+P03985,Fan Merchandise,56.46
+P03986,Jerseys,129.77
+P03987,Fan Merchandise,62.24
+P03988,Jerseys,70.52
+P03989,Accessories,12.28
+P03990,Fan Merchandise,72.36
+P03991,Fan Merchandise,46.96
+P03992,Fan Merchandise,33.79
+P03993,Training Gear,82.51
+P03994,Accessories,75.01
+P03995,Training Gear,35.28
+P03996,Footwear,134.25
+P03997,Jerseys,71.05
+P03998,Fan Merchandise,74.75
+P03999,Jerseys,136.55
+P04000,Accessories,91.09
+P04001,Fan Merchandise,64.63
+P04002,Accessories,91.53
+P04003,Footwear,101.53
+P04004,Footwear,65.1
+P04005,Jerseys,184.28
+P04006,Jerseys,183.27
+P04007,Footwear,198.99
+P04008,Training Gear,158.48
+P04009,Jerseys,141.44
+P04010,Fan Merchandise,49.41
+P04011,Training Gear,131.22
+P04012,Jerseys,70.97
+P04013,Training Gear,129.19
+P04014,Footwear,186.2
+P04015,Fan Merchandise,54.14
+P04016,Training Gear,73.08
+P04017,Fan Merchandise,59.9
+P04018,Jerseys,187.68
+P04019,Jerseys,77.9
+P04020,Jerseys,100.11
+P04021,Training Gear,113.34
+P04022,Jerseys,175.82
+P04023,Accessories,75.21
+P04024,Jerseys,140.67
+P04025,Jerseys,67.43
+P04026,Jerseys,117.89
+P04027,Jerseys,184.08
+P04028,Accessories,46.16
+P04029,Jerseys,110.25
+P04030,Accessories,45.76
+P04031,Accessories,46.27
+P04032,Jerseys,113.69
+P04033,Fan Merchandise,68.46
+P04034,Accessories,55.51
+P04035,Accessories,70.71
+P04036,Footwear,119.64
+P04037,Footwear,197.29
+P04038,Fan Merchandise,25.05
+P04039,Training Gear,35.45
+P04040,Jerseys,114.12
+P04041,Jerseys,196.27
+P04042,Jerseys,156.47
+P04043,Fan Merchandise,56.99
+P04044,Footwear,110.26
+P04045,Training Gear,59.91
+P04046,Footwear,212.18
+P04047,Training Gear,78.62
+P04048,Footwear,168.0
+P04049,Jerseys,172.51
+P04050,Jerseys,150.34
+P04051,Jerseys,88.73
+P04052,Training Gear,58.89
+P04053,Accessories,12.3
+P04054,Footwear,214.49
+P04055,Training Gear,136.52
+P04056,Jerseys,113.58
+P04057,Footwear,200.64
+P04058,Footwear,67.66
+P04059,Accessories,14.2
+P04060,Training Gear,37.21
+P04061,Footwear,199.02
+P04062,Fan Merchandise,23.72
+P04063,Jerseys,64.88
+P04064,Footwear,73.4
+P04065,Fan Merchandise,42.3
+P04066,Fan Merchandise,48.24
+P04067,Accessories,33.59
+P04068,Footwear,185.03
+P04069,Footwear,212.77
+P04070,Fan Merchandise,33.23
+P04071,Accessories,103.11
+P04072,Jerseys,173.6
+P04073,Footwear,199.48
+P04074,Fan Merchandise,16.36
+P04075,Footwear,190.13
+P04076,Fan Merchandise,54.77
+P04077,Fan Merchandise,14.79
+P04078,Jerseys,164.28
+P04079,Accessories,34.17
+P04080,Accessories,89.71
+P04081,Accessories,72.6
+P04082,Training Gear,87.91
+P04083,Accessories,12.34
+P04084,Footwear,200.14
+P04085,Jerseys,76.4
+P04086,Accessories,92.97
+P04087,Jerseys,154.78
+P04088,Fan Merchandise,17.08
+P04089,Footwear,137.6
+P04090,Footwear,213.12
+P04091,Jerseys,188.81
+P04092,Training Gear,38.77
+P04093,Fan Merchandise,24.64
+P04094,Accessories,25.36
+P04095,Jerseys,164.65
+P04096,Training Gear,40.83
+P04097,Training Gear,27.17
+P04098,Jerseys,111.6
+P04099,Fan Merchandise,82.58
+P04100,Training Gear,61.77
+P04101,Jerseys,160.01
+P04102,Jerseys,75.87
+P04103,Accessories,72.11
+P04104,Jerseys,139.27
+P04105,Fan Merchandise,78.0
+P04106,Accessories,81.66
+P04107,Footwear,61.74
+P04108,Jerseys,113.7
+P04109,Fan Merchandise,12.04
+P04110,Footwear,83.38
+P04111,Jerseys,195.84
+P04112,Footwear,122.03
+P04113,Training Gear,141.2
+P04114,Footwear,44.27
+P04115,Footwear,198.41
+P04116,Fan Merchandise,76.93
+P04117,Footwear,157.62
+P04118,Fan Merchandise,20.49
+P04119,Jerseys,182.02
+P04120,Training Gear,145.78
+P04121,Footwear,76.19
+P04122,Footwear,209.23
+P04123,Jerseys,182.75
+P04124,Training Gear,47.09
+P04125,Training Gear,73.92
+P04126,Jerseys,103.82
+P04127,Footwear,129.68
+P04128,Footwear,200.02
+P04129,Jerseys,181.78
+P04130,Footwear,71.62
+P04131,Training Gear,96.26
+P04132,Footwear,136.13
+P04133,Training Gear,81.96
+P04134,Footwear,168.65
+P04135,Training Gear,109.73
+P04136,Jerseys,94.89
+P04137,Footwear,102.67
+P04138,Fan Merchandise,76.85
+P04139,Jerseys,102.24
+P04140,Training Gear,81.06
+P04141,Fan Merchandise,83.02
+P04142,Training Gear,139.73
+P04143,Training Gear,117.25
+P04144,Jerseys,99.08
+P04145,Jerseys,146.17
+P04146,Fan Merchandise,58.87
+P04147,Jerseys,114.68
+P04148,Accessories,13.61
+P04149,Jerseys,108.15
+P04150,Fan Merchandise,49.09
+P04151,Jerseys,192.77
+P04152,Footwear,170.95
+P04153,Training Gear,33.33
+P04154,Training Gear,60.8
+P04155,Jerseys,130.64
+P04156,Footwear,121.2
+P04157,Fan Merchandise,12.37
+P04158,Jerseys,190.59
+P04159,Accessories,100.4
+P04160,Fan Merchandise,79.43
+P04161,Jerseys,117.14
+P04162,Jerseys,175.84
+P04163,Footwear,167.54
+P04164,Jerseys,129.2
+P04165,Accessories,17.71
+P04166,Footwear,70.21
+P04167,Training Gear,51.83
+P04168,Fan Merchandise,77.4
+P04169,Footwear,159.77
+P04170,Accessories,108.3
+P04171,Jerseys,137.13
+P04172,Jerseys,67.28
+P04173,Accessories,57.78
+P04174,Footwear,60.12
+P04175,Footwear,202.25
+P04176,Footwear,90.12
+P04177,Footwear,75.51
+P04178,Fan Merchandise,49.35
+P04179,Training Gear,132.61
+P04180,Fan Merchandise,49.26
+P04181,Training Gear,23.43
+P04182,Accessories,84.3
+P04183,Jerseys,59.94
+P04184,Training Gear,103.82
+P04185,Footwear,151.05
+P04186,Footwear,77.53
+P04187,Training Gear,81.41
+P04188,Fan Merchandise,12.45
+P04189,Training Gear,58.28
+P04190,Footwear,151.48
+P04191,Fan Merchandise,32.74
+P04192,Jerseys,61.91
+P04193,Jerseys,152.77
+P04194,Training Gear,123.42
+P04195,Jerseys,180.13
+P04196,Fan Merchandise,75.91
+P04197,Training Gear,88.48
+P04198,Training Gear,75.84
+P04199,Footwear,145.46
+P04200,Footwear,182.68
+P04201,Training Gear,85.5
+P04202,Accessories,109.52
+P04203,Accessories,73.75
+P04204,Footwear,95.46
+P04205,Footwear,182.87
+P04206,Training Gear,39.41
+P04207,Accessories,103.58
+P04208,Fan Merchandise,36.85
+P04209,Jerseys,154.33
+P04210,Jerseys,145.67
+P04211,Accessories,19.59
+P04212,Training Gear,120.47
+P04213,Jerseys,100.21
+P04214,Jerseys,110.27
+P04215,Accessories,19.65
+P04216,Footwear,185.82
+P04217,Jerseys,179.74
+P04218,Accessories,23.43
+P04219,Footwear,186.27
+P04220,Accessories,99.8
+P04221,Footwear,57.51
+P04222,Fan Merchandise,84.81
+P04223,Fan Merchandise,12.33
+P04224,Training Gear,137.62
+P04225,Fan Merchandise,52.76
+P04226,Accessories,105.73
+P04227,Jerseys,104.02
+P04228,Jerseys,107.32
+P04229,Footwear,191.27
+P04230,Fan Merchandise,63.88
+P04231,Footwear,148.09
+P04232,Jerseys,148.44
+P04233,Accessories,78.26
+P04234,Fan Merchandise,15.49
+P04235,Jerseys,72.08
+P04236,Accessories,28.13
+P04237,Accessories,27.68
+P04238,Training Gear,137.69
+P04239,Fan Merchandise,40.8
+P04240,Jerseys,125.97
+P04241,Training Gear,30.69
+P04242,Footwear,196.71
+P04243,Jerseys,56.49
+P04244,Footwear,54.99
+P04245,Accessories,91.21
+P04246,Accessories,23.06
+P04247,Accessories,89.34
+P04248,Fan Merchandise,37.58
+P04249,Accessories,87.61
+P04250,Jerseys,62.3
+P04251,Accessories,44.13
+P04252,Fan Merchandise,47.13
+P04253,Accessories,72.57
+P04254,Accessories,93.62
+P04255,Accessories,34.45
+P04256,Accessories,75.89
+P04257,Jerseys,77.01
+P04258,Training Gear,130.91
+P04259,Footwear,207.98
+P04260,Footwear,48.51
+P04261,Fan Merchandise,17.83
+P04262,Training Gear,129.83
+P04263,Fan Merchandise,76.26
+P04264,Accessories,74.82
+P04265,Training Gear,83.49
+P04266,Jerseys,166.51
+P04267,Jerseys,98.46
+P04268,Accessories,109.18
+P04269,Jerseys,177.96
+P04270,Accessories,98.71
+P04271,Training Gear,139.39
+P04272,Jerseys,190.27
+P04273,Footwear,51.61
+P04274,Jerseys,186.75
+P04275,Accessories,34.86
+P04276,Fan Merchandise,38.22
+P04277,Training Gear,70.62
+P04278,Fan Merchandise,28.97
+P04279,Training Gear,80.26
+P04280,Jerseys,128.3
+P04281,Footwear,66.76
+P04282,Jerseys,107.13
+P04283,Fan Merchandise,37.41
+P04284,Footwear,161.44
+P04285,Footwear,144.54
+P04286,Jerseys,158.84
+P04287,Jerseys,168.67
+P04288,Fan Merchandise,60.69
+P04289,Training Gear,52.26
+P04290,Footwear,130.38
+P04291,Accessories,56.66
+P04292,Footwear,53.33
+P04293,Jerseys,184.7
+P04294,Jerseys,68.26
+P04295,Accessories,107.64
+P04296,Accessories,13.17
+P04297,Fan Merchandise,65.27
+P04298,Fan Merchandise,32.99
+P04299,Footwear,202.85
+P04300,Fan Merchandise,72.15
+P04301,Fan Merchandise,13.83
+P04302,Footwear,43.95
+P04303,Jerseys,142.46
+P04304,Footwear,66.93
+P04305,Footwear,42.55
+P04306,Jerseys,195.33
+P04307,Jerseys,146.77
+P04308,Training Gear,19.54
+P04309,Training Gear,87.65
+P04310,Accessories,25.75
+P04311,Fan Merchandise,70.78
+P04312,Training Gear,22.07
+P04313,Jerseys,108.78
+P04314,Accessories,33.8
+P04315,Fan Merchandise,83.6
+P04316,Training Gear,29.09
+P04317,Fan Merchandise,64.55
+P04318,Footwear,126.05
+P04319,Fan Merchandise,71.6
+P04320,Jerseys,86.07
+P04321,Jerseys,179.02
+P04322,Accessories,105.04
+P04323,Fan Merchandise,27.56
+P04324,Footwear,83.69
+P04325,Jerseys,194.73
+P04326,Fan Merchandise,43.69
+P04327,Footwear,190.34
+P04328,Training Gear,137.62
+P04329,Accessories,41.09
+P04330,Accessories,27.88
+P04331,Footwear,105.98
+P04332,Training Gear,102.05
+P04333,Training Gear,88.59
+P04334,Footwear,172.62
+P04335,Fan Merchandise,52.06
+P04336,Fan Merchandise,70.8
+P04337,Footwear,58.71
+P04338,Accessories,53.91
+P04339,Training Gear,20.28
+P04340,Accessories,22.08
+P04341,Training Gear,65.07
+P04342,Footwear,202.27
+P04343,Training Gear,71.98
+P04344,Training Gear,56.83
+P04345,Footwear,160.74
+P04346,Jerseys,157.0
+P04347,Accessories,58.13
+P04348,Training Gear,58.97
+P04349,Footwear,94.33
+P04350,Jerseys,81.9
+P04351,Fan Merchandise,38.47
+P04352,Jerseys,79.4
+P04353,Accessories,74.29
+P04354,Accessories,99.47
+P04355,Training Gear,54.1
+P04356,Footwear,83.6
+P04357,Training Gear,145.54
+P04358,Accessories,66.8
+P04359,Training Gear,121.63
+P04360,Footwear,200.04
+P04361,Fan Merchandise,60.54
+P04362,Training Gear,123.43
+P04363,Fan Merchandise,40.25
+P04364,Footwear,208.87
+P04365,Accessories,80.39
+P04366,Footwear,52.91
+P04367,Footwear,147.14
+P04368,Fan Merchandise,18.91
+P04369,Training Gear,92.14
+P04370,Accessories,18.85
+P04371,Footwear,152.9
+P04372,Jerseys,121.17
+P04373,Jerseys,135.2
+P04374,Footwear,156.81
+P04375,Training Gear,53.55
+P04376,Footwear,97.51
+P04377,Footwear,126.77
+P04378,Fan Merchandise,53.34
+P04379,Footwear,206.26
+P04380,Jerseys,106.03
+P04381,Accessories,69.17
+P04382,Footwear,206.06
+P04383,Accessories,81.78
+P04384,Accessories,42.83
+P04385,Fan Merchandise,42.27
+P04386,Footwear,198.18
+P04387,Jerseys,118.46
+P04388,Fan Merchandise,30.4
+P04389,Footwear,134.15
+P04390,Footwear,73.48
+P04391,Jerseys,139.4
+P04392,Footwear,218.47
+P04393,Footwear,214.47
+P04394,Training Gear,105.16
+P04395,Accessories,98.63
+P04396,Accessories,91.52
+P04397,Jerseys,192.85
+P04398,Footwear,197.16
+P04399,Fan Merchandise,77.69
+P04400,Fan Merchandise,28.76
+P04401,Training Gear,40.44
+P04402,Footwear,47.91
+P04403,Footwear,158.68
+P04404,Fan Merchandise,80.15
+P04405,Jerseys,199.11
+P04406,Footwear,193.42
+P04407,Jerseys,175.5
+P04408,Footwear,133.4
+P04409,Training Gear,82.18
+P04410,Training Gear,108.92
+P04411,Accessories,12.27
+P04412,Jerseys,170.18
+P04413,Fan Merchandise,60.0
+P04414,Accessories,27.0
+P04415,Fan Merchandise,58.41
+P04416,Accessories,69.95
+P04417,Training Gear,129.9
+P04418,Jerseys,176.43
+P04419,Accessories,35.34
+P04420,Fan Merchandise,71.46
+P04421,Training Gear,43.86
+P04422,Training Gear,73.98
+P04423,Jerseys,126.43
+P04424,Fan Merchandise,70.76
+P04425,Jerseys,185.66
+P04426,Fan Merchandise,13.26
+P04427,Footwear,172.7
+P04428,Jerseys,182.24
+P04429,Training Gear,153.51
+P04430,Fan Merchandise,31.56
+P04431,Accessories,27.3
+P04432,Footwear,129.81
+P04433,Jerseys,185.65
+P04434,Footwear,96.81
+P04435,Footwear,130.91
+P04436,Training Gear,159.37
+P04437,Accessories,55.6
+P04438,Footwear,153.09
+P04439,Fan Merchandise,84.68
+P04440,Footwear,106.11
+P04441,Jerseys,94.57
+P04442,Jerseys,96.0
+P04443,Footwear,151.06
+P04444,Accessories,26.27
+P04445,Fan Merchandise,24.01
+P04446,Accessories,36.01
+P04447,Training Gear,94.81
+P04448,Training Gear,137.87
+P04449,Fan Merchandise,50.64
+P04450,Training Gear,129.14
+P04451,Training Gear,153.97
+P04452,Training Gear,123.08
+P04453,Jerseys,148.2
+P04454,Footwear,41.47
+P04455,Fan Merchandise,44.73
+P04456,Training Gear,56.06
+P04457,Training Gear,90.76
+P04458,Fan Merchandise,81.43
+P04459,Training Gear,63.5
+P04460,Fan Merchandise,23.74
+P04461,Fan Merchandise,72.29
+P04462,Footwear,218.3
+P04463,Accessories,88.01
+P04464,Footwear,64.91
+P04465,Footwear,139.13
+P04466,Accessories,50.52
+P04467,Footwear,154.02
+P04468,Training Gear,112.94
+P04469,Accessories,90.71
+P04470,Fan Merchandise,29.53
+P04471,Footwear,213.64
+P04472,Training Gear,48.49
+P04473,Accessories,22.41
+P04474,Accessories,92.89
+P04475,Fan Merchandise,45.82
+P04476,Accessories,59.02
+P04477,Accessories,41.87
+P04478,Fan Merchandise,15.39
+P04479,Fan Merchandise,26.13
+P04480,Jerseys,165.44
+P04481,Training Gear,49.87
+P04482,Jerseys,198.94
+P04483,Jerseys,169.0
+P04484,Jerseys,178.05
+P04485,Jerseys,181.63
+P04486,Jerseys,159.24
+P04487,Training Gear,84.2
+P04488,Accessories,101.7
+P04489,Training Gear,78.57
+P04490,Footwear,57.25
+P04491,Accessories,69.64
+P04492,Footwear,59.0
+P04493,Accessories,75.54
+P04494,Jerseys,199.64
+P04495,Fan Merchandise,61.29
+P04496,Fan Merchandise,27.37
+P04497,Jerseys,74.99
+P04498,Footwear,104.15
+P04499,Jerseys,76.14
+P04500,Jerseys,137.61
+P04501,Fan Merchandise,69.17
+P04502,Accessories,75.81
+P04503,Training Gear,105.64
+P04504,Training Gear,79.86
+P04505,Jerseys,80.05
+P04506,Training Gear,108.56
+P04507,Fan Merchandise,42.61
+P04508,Footwear,94.98
+P04509,Training Gear,111.62
+P04510,Accessories,47.85
+P04511,Fan Merchandise,24.29
+P04512,Fan Merchandise,47.3
+P04513,Training Gear,59.06
+P04514,Fan Merchandise,65.54
+P04515,Training Gear,24.68
+P04516,Jerseys,178.66
+P04517,Training Gear,83.51
+P04518,Fan Merchandise,13.16
+P04519,Fan Merchandise,21.74
+P04520,Training Gear,152.25
+P04521,Footwear,136.66
+P04522,Jerseys,166.44
+P04523,Training Gear,143.35
+P04524,Training Gear,63.48
+P04525,Fan Merchandise,51.92
+P04526,Accessories,75.03
+P04527,Jerseys,177.03
+P04528,Accessories,52.01
+P04529,Jerseys,193.0
+P04530,Training Gear,104.21
+P04531,Accessories,97.39
+P04532,Jerseys,67.09
+P04533,Accessories,56.33
+P04534,Training Gear,43.44
+P04535,Accessories,101.19
+P04536,Jerseys,89.07
+P04537,Accessories,81.3
+P04538,Accessories,16.29
+P04539,Jerseys,84.12
+P04540,Fan Merchandise,35.35
+P04541,Jerseys,168.37
+P04542,Accessories,35.12
+P04543,Accessories,91.69
+P04544,Accessories,88.86
+P04545,Accessories,109.22
+P04546,Fan Merchandise,61.43
+P04547,Footwear,154.74
+P04548,Jerseys,142.22
+P04549,Fan Merchandise,20.0
+P04550,Training Gear,90.88
+P04551,Footwear,193.27
+P04552,Footwear,43.75
+P04553,Training Gear,35.99
+P04554,Footwear,148.1
+P04555,Training Gear,138.28
+P04556,Training Gear,61.64
+P04557,Footwear,196.87
+P04558,Footwear,100.75
+P04559,Training Gear,84.1
+P04560,Jerseys,193.19
+P04561,Accessories,51.76
+P04562,Jerseys,141.92
+P04563,Accessories,103.55
+P04564,Training Gear,55.54
+P04565,Fan Merchandise,18.71
+P04566,Footwear,212.45
+P04567,Accessories,65.98
+P04568,Fan Merchandise,82.51
+P04569,Footwear,196.01
+P04570,Fan Merchandise,55.41
+P04571,Accessories,57.13
+P04572,Footwear,126.45
+P04573,Training Gear,41.57
+P04574,Accessories,55.36
+P04575,Jerseys,174.15
+P04576,Footwear,217.98
+P04577,Jerseys,194.25
+P04578,Jerseys,194.52
+P04579,Jerseys,57.76
+P04580,Fan Merchandise,49.65
+P04581,Fan Merchandise,26.61
+P04582,Footwear,150.75
+P04583,Fan Merchandise,81.05
+P04584,Fan Merchandise,76.0
+P04585,Accessories,96.66
+P04586,Training Gear,69.93
+P04587,Jerseys,127.67
+P04588,Footwear,90.75
+P04589,Footwear,139.69
+P04590,Jerseys,98.99
+P04591,Accessories,90.87
+P04592,Footwear,123.6
+P04593,Accessories,80.04
+P04594,Training Gear,141.92
+P04595,Fan Merchandise,33.88
+P04596,Fan Merchandise,57.41
+P04597,Fan Merchandise,73.74
+P04598,Fan Merchandise,81.4
+P04599,Accessories,26.31
+P04600,Jerseys,153.81
+P04601,Jerseys,118.11
+P04602,Footwear,91.39
+P04603,Accessories,25.77
+P04604,Accessories,68.54
+P04605,Footwear,100.14
+P04606,Jerseys,151.85
+P04607,Fan Merchandise,32.51
+P04608,Jerseys,55.09
+P04609,Jerseys,166.25
+P04610,Footwear,69.04
+P04611,Footwear,85.45
+P04612,Fan Merchandise,29.18
+P04613,Footwear,101.6
+P04614,Jerseys,125.37
+P04615,Training Gear,133.37
+P04616,Accessories,75.02
+P04617,Accessories,24.6
+P04618,Fan Merchandise,25.41
+P04619,Footwear,192.47
+P04620,Jerseys,91.23
+P04621,Jerseys,86.71
+P04622,Jerseys,55.52
+P04623,Jerseys,167.24
+P04624,Accessories,83.85
+P04625,Footwear,102.57
+P04626,Footwear,41.32
+P04627,Accessories,88.56
+P04628,Accessories,19.94
+P04629,Accessories,56.05
+P04630,Footwear,191.23
+P04631,Fan Merchandise,29.83
+P04632,Training Gear,71.91
+P04633,Accessories,76.09
+P04634,Training Gear,113.59
+P04635,Jerseys,122.09
+P04636,Footwear,118.08
+P04637,Jerseys,115.83
+P04638,Accessories,58.6
+P04639,Training Gear,67.22
+P04640,Jerseys,92.18
+P04641,Jerseys,100.83
+P04642,Training Gear,85.84
+P04643,Jerseys,110.41
+P04644,Fan Merchandise,54.74
+P04645,Jerseys,146.52
+P04646,Training Gear,159.45
+P04647,Footwear,150.73
+P04648,Fan Merchandise,65.63
+P04649,Accessories,19.8
+P04650,Training Gear,125.98
+P04651,Training Gear,90.26
+P04652,Fan Merchandise,75.26
+P04653,Footwear,214.76
+P04654,Accessories,33.04
+P04655,Training Gear,149.87
+P04656,Accessories,77.16
+P04657,Training Gear,122.95
+P04658,Fan Merchandise,46.48
+P04659,Jerseys,106.45
+P04660,Footwear,184.01
+P04661,Jerseys,58.19
+P04662,Fan Merchandise,51.46
+P04663,Accessories,17.38
+P04664,Footwear,85.83
+P04665,Fan Merchandise,64.94
+P04666,Footwear,175.85
+P04667,Jerseys,183.91
+P04668,Accessories,81.54
+P04669,Accessories,77.47
+P04670,Footwear,210.12
+P04671,Fan Merchandise,51.23
+P04672,Training Gear,110.85
+P04673,Fan Merchandise,75.37
+P04674,Training Gear,126.44
+P04675,Jerseys,166.64
+P04676,Footwear,136.62
+P04677,Footwear,135.01
+P04678,Fan Merchandise,59.36
+P04679,Footwear,166.1
+P04680,Training Gear,95.55
+P04681,Accessories,28.55
+P04682,Fan Merchandise,30.13
+P04683,Jerseys,126.5
+P04684,Fan Merchandise,26.9
+P04685,Accessories,52.35
+P04686,Accessories,24.71
+P04687,Fan Merchandise,22.67
+P04688,Jerseys,177.27
+P04689,Training Gear,95.0
+P04690,Fan Merchandise,68.97
+P04691,Fan Merchandise,12.84
+P04692,Jerseys,96.42
+P04693,Footwear,43.18
+P04694,Footwear,40.61
+P04695,Fan Merchandise,14.34
+P04696,Footwear,133.87
+P04697,Training Gear,30.9
+P04698,Training Gear,131.37
+P04699,Footwear,132.91
+P04700,Fan Merchandise,29.91
+P04701,Jerseys,176.61
+P04702,Jerseys,128.9
+P04703,Jerseys,105.87
+P04704,Training Gear,98.65
+P04705,Training Gear,113.51
+P04706,Footwear,140.58
+P04707,Jerseys,190.25
+P04708,Accessories,45.4
+P04709,Accessories,50.99
+P04710,Footwear,194.59
+P04711,Training Gear,108.52
+P04712,Training Gear,155.21
+P04713,Jerseys,169.86
+P04714,Training Gear,90.84
+P04715,Fan Merchandise,58.33
+P04716,Accessories,50.61
+P04717,Fan Merchandise,21.32
+P04718,Accessories,50.71
+P04719,Accessories,38.15
+P04720,Jerseys,153.32
+P04721,Fan Merchandise,60.85
+P04722,Footwear,208.73
+P04723,Jerseys,66.52
+P04724,Accessories,56.76
+P04725,Jerseys,112.8
+P04726,Jerseys,131.48
+P04727,Footwear,61.52
+P04728,Training Gear,87.78
+P04729,Accessories,75.7
+P04730,Jerseys,100.5
+P04731,Training Gear,110.36
+P04732,Training Gear,55.73
+P04733,Footwear,106.47
+P04734,Accessories,100.73
+P04735,Jerseys,58.63
+P04736,Accessories,37.28
+P04737,Fan Merchandise,80.31
+P04738,Footwear,66.47
+P04739,Accessories,49.74
+P04740,Jerseys,120.84
+P04741,Accessories,75.26
+P04742,Footwear,150.12
+P04743,Fan Merchandise,57.75
+P04744,Accessories,104.04
+P04745,Footwear,110.7
+P04746,Fan Merchandise,47.76
+P04747,Footwear,213.52
+P04748,Accessories,22.82
+P04749,Accessories,104.82
+P04750,Footwear,210.69
+P04751,Jerseys,193.25
+P04752,Footwear,52.07
+P04753,Fan Merchandise,54.16
+P04754,Fan Merchandise,73.19
+P04755,Footwear,96.47
+P04756,Footwear,146.3
+P04757,Training Gear,54.42
+P04758,Footwear,63.33
+P04759,Jerseys,178.58
+P04760,Fan Merchandise,83.63
+P04761,Footwear,52.55
+P04762,Training Gear,35.23
+P04763,Footwear,145.95
+P04764,Training Gear,30.26
+P04765,Jerseys,146.52
+P04766,Footwear,169.51
+P04767,Jerseys,115.12
+P04768,Training Gear,125.39
+P04769,Accessories,21.36
+P04770,Footwear,94.22
+P04771,Training Gear,132.68
+P04772,Footwear,55.9
+P04773,Footwear,91.32
+P04774,Footwear,151.81
+P04775,Training Gear,53.13
+P04776,Footwear,126.56
+P04777,Footwear,190.69
+P04778,Training Gear,56.29
+P04779,Accessories,53.59
+P04780,Jerseys,57.65
+P04781,Accessories,80.84
+P04782,Jerseys,106.48
+P04783,Accessories,96.01
+P04784,Jerseys,67.84
+P04785,Accessories,88.22
+P04786,Fan Merchandise,71.41
+P04787,Jerseys,167.53
+P04788,Footwear,172.19
+P04789,Jerseys,89.48
+P04790,Fan Merchandise,42.42
+P04791,Fan Merchandise,40.17
+P04792,Fan Merchandise,29.6
+P04793,Training Gear,87.82
+P04794,Training Gear,117.05
+P04795,Training Gear,85.98
+P04796,Accessories,107.45
+P04797,Jerseys,157.77
+P04798,Accessories,54.27
+P04799,Footwear,112.71
+P04800,Footwear,145.05
+P04801,Jerseys,117.61
+P04802,Jerseys,87.18
+P04803,Fan Merchandise,50.04
+P04804,Jerseys,152.54
+P04805,Footwear,104.52
+P04806,Training Gear,58.23
+P04807,Accessories,31.74
+P04808,Footwear,105.31
+P04809,Jerseys,90.43
+P04810,Footwear,177.36
+P04811,Training Gear,108.7
+P04812,Jerseys,96.61
+P04813,Training Gear,158.84
+P04814,Jerseys,148.62
+P04815,Fan Merchandise,22.4
+P04816,Footwear,189.28
+P04817,Accessories,85.37
+P04818,Jerseys,127.5
+P04819,Jerseys,88.85
+P04820,Training Gear,133.14
+P04821,Fan Merchandise,21.09
+P04822,Jerseys,115.62
+P04823,Fan Merchandise,71.66
+P04824,Footwear,184.26
+P04825,Training Gear,107.44
+P04826,Jerseys,56.12
+P04827,Footwear,99.96
+P04828,Jerseys,178.71
+P04829,Footwear,169.85
+P04830,Training Gear,133.1
+P04831,Jerseys,64.13
+P04832,Footwear,209.34
+P04833,Fan Merchandise,28.72
+P04834,Footwear,99.81
+P04835,Footwear,191.3
+P04836,Fan Merchandise,41.65
+P04837,Footwear,155.75
+P04838,Training Gear,96.44
+P04839,Accessories,96.61
+P04840,Jerseys,77.64
+P04841,Accessories,19.78
+P04842,Jerseys,146.69
+P04843,Accessories,94.46
+P04844,Accessories,102.31
+P04845,Fan Merchandise,41.19
+P04846,Accessories,83.49
+P04847,Fan Merchandise,40.53
+P04848,Footwear,97.4
+P04849,Training Gear,21.44
+P04850,Footwear,85.02
+P04851,Training Gear,42.16
+P04852,Accessories,36.86
+P04853,Footwear,91.97
+P04854,Jerseys,179.54
+P04855,Training Gear,46.88
+P04856,Training Gear,134.34
+P04857,Fan Merchandise,74.73
+P04858,Jerseys,122.25
+P04859,Accessories,82.45
+P04860,Jerseys,101.2
+P04861,Fan Merchandise,13.3
+P04862,Jerseys,157.9
+P04863,Training Gear,104.11
+P04864,Fan Merchandise,45.68
+P04865,Jerseys,185.31
+P04866,Fan Merchandise,65.09
+P04867,Jerseys,116.71
+P04868,Footwear,49.61
+P04869,Jerseys,182.03
+P04870,Jerseys,197.77
+P04871,Jerseys,147.01
+P04872,Fan Merchandise,68.08
+P04873,Fan Merchandise,48.94
+P04874,Accessories,33.66
+P04875,Training Gear,147.51
+P04876,Training Gear,115.75
+P04877,Footwear,138.74
+P04878,Accessories,78.21
+P04879,Training Gear,90.68
+P04880,Jerseys,63.47
+P04881,Jerseys,150.76
+P04882,Training Gear,18.74
+P04883,Fan Merchandise,28.09
+P04884,Training Gear,40.15
+P04885,Training Gear,66.3
+P04886,Footwear,203.5
+P04887,Fan Merchandise,17.82
+P04888,Fan Merchandise,38.09
+P04889,Jerseys,165.14
+P04890,Footwear,195.36
+P04891,Footwear,172.5
+P04892,Fan Merchandise,82.46
+P04893,Fan Merchandise,62.8
+P04894,Training Gear,123.76
+P04895,Jerseys,116.2
+P04896,Accessories,40.21
+P04897,Footwear,123.14
+P04898,Training Gear,127.04
+P04899,Accessories,75.03
+P04900,Fan Merchandise,68.35
+P04901,Jerseys,146.0
+P04902,Footwear,171.96
+P04903,Footwear,68.02
+P04904,Fan Merchandise,35.63
+P04905,Footwear,141.01
+P04906,Training Gear,20.35
+P04907,Jerseys,187.28
+P04908,Accessories,33.95
+P04909,Jerseys,67.83
+P04910,Footwear,159.57
+P04911,Accessories,29.37
+P04912,Jerseys,136.48
+P04913,Jerseys,91.1
+P04914,Accessories,26.59
+P04915,Jerseys,161.57
+P04916,Accessories,48.84
+P04917,Fan Merchandise,53.93
+P04918,Footwear,78.9
+P04919,Jerseys,135.1
+P04920,Footwear,115.82
+P04921,Footwear,49.22
+P04922,Footwear,170.8
+P04923,Accessories,65.24
+P04924,Footwear,206.92
+P04925,Training Gear,132.73
+P04926,Fan Merchandise,53.69
+P04927,Footwear,47.75
+P04928,Accessories,85.19
+P04929,Footwear,138.83
+P04930,Footwear,190.31
+P04931,Training Gear,100.04
+P04932,Accessories,10.2
+P04933,Footwear,186.68
+P04934,Training Gear,131.5
+P04935,Training Gear,32.12
+P04936,Accessories,78.38
+P04937,Fan Merchandise,50.41
+P04938,Fan Merchandise,55.06
+P04939,Fan Merchandise,76.92
+P04940,Accessories,34.96
+P04941,Training Gear,19.87
+P04942,Accessories,30.86
+P04943,Jerseys,187.69
+P04944,Footwear,78.06
+P04945,Jerseys,152.8
+P04946,Footwear,182.14
+P04947,Footwear,186.38
+P04948,Accessories,11.04
+P04949,Training Gear,19.34
+P04950,Footwear,218.02
+P04951,Jerseys,131.48
+P04952,Training Gear,27.05
+P04953,Jerseys,58.89
+P04954,Fan Merchandise,71.19
+P04955,Accessories,100.5
+P04956,Accessories,62.45
+P04957,Footwear,106.91
+P04958,Jerseys,156.84
+P04959,Accessories,12.24
+P04960,Footwear,201.8
+P04961,Footwear,86.1
+P04962,Jerseys,82.68
+P04963,Fan Merchandise,34.69
+P04964,Accessories,16.37
+P04965,Fan Merchandise,40.44
+P04966,Fan Merchandise,64.18
+P04967,Footwear,129.68
+P04968,Training Gear,112.85
+P04969,Training Gear,48.36
+P04970,Jerseys,112.69
+P04971,Accessories,61.95
+P04972,Jerseys,138.02
+P04973,Training Gear,44.47
+P04974,Jerseys,172.11
+P04975,Jerseys,68.08
+P04976,Training Gear,31.96
+P04977,Accessories,34.97
+P04978,Footwear,157.77
+P04979,Accessories,17.71
+P04980,Fan Merchandise,12.56
+P04981,Jerseys,123.47
+P04982,Accessories,44.67
+P04983,Accessories,25.67
+P04984,Accessories,75.59
+P04985,Training Gear,109.08
+P04986,Accessories,22.19
+P04987,Fan Merchandise,28.78
+P04988,Fan Merchandise,38.64
+P04989,Footwear,218.21
+P04990,Footwear,178.35
+P04991,Training Gear,65.88
+P04992,Fan Merchandise,82.48
+P04993,Jerseys,120.97
+P04994,Footwear,108.46
+P04995,Footwear,209.97
+P04996,Footwear,172.51
+P04997,Jerseys,134.44
+P04998,Accessories,70.07
+P04999,Footwear,215.11
+P05000,Accessories,25.29
